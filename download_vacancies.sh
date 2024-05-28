@@ -18,5 +18,5 @@ for i in $(seq 0 10 $END);
 do
 	output="${dir}"/"${fname}"$i.htm;
 	echo "${url}"$i;
-	http "${url}"$i > "${output}";
+	curl -s "${url}"$i > "${output}";
 done
