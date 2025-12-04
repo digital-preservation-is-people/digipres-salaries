@@ -1,87 +1,294 @@
-Date,Title,Location,Salary
+"Date","Title","Location","Salary"
+"2026-01-15","Vacancy for Data Science Specialist/Librarian at University of Arizona","Arizona, United States","$63,000 - $76,000"
+"2025-12-19","Vacancy for Executive Director at LIBER","Not listed","Executive Director"
+"2025-12-19","Vacancy for Digital Preservation Lead at Queensland State Archives","Brisbane, Australia","$119802 - $127941"
+"2025-12-17","Vacancy for Lecturer in Information Studies at Aberystwyth Univeristy","Aberystwyth, UK","£42,254.39 - £46,048.78 per annum (Pro rata)"
+"2025-12-11","Vacancy for Repository Team Leader (Enlighten Services) at University of Glasgow","Glasgow, Scotland","Grade 6, £33,951 - £37,694 per annum"
+"2025-12-10","Vacancy for RHC Archives Project Officer at Lancaster University","Lancaster, UK","£33,002 to £39,906 Part time, indefinite with end date"
+"2025-12-05","Vacancy for Project Manager: Open Access Publishing at Lancaster University","Lancaster, UK","£39,906 to £48,882 Part-Time Fixed Term"
+"2025-12-05","Vacancy for Digital Archivist at The Honourable Society of Gray's Inn","London, England","£38K"
+"2025-12-02","Vacancy for Digital Preservation Project Officer at Newcastle University","Newcastle, England","£35,608 to £37,694 with progression to £46,049 per annum"
+"2025-12-02","Vacancy for Digital Ingest Conservator at Victoria and Albert Museum","London, England","£35,561 - £47,415 (pro-rata)"
+"2025-11-30","Vacancy for Digital Archivist at UK Parliament","London, England","£38,000 per annum"
+"2025-11-14","Vacancy for Open Research Officer at University of East Anglia","Norwich, England","Advertising Salary Starting will be £38,784 per annum, with an annual increment up to £46,049 per annum"
+"2025-11-12","Vacancy for Junior Software Developer at The National Archives (UK)","London, England","£34,610 base salary plus £1,000 market supplement"
+"2025-11-09","Vacancies for Lecturers in Information Studies (Digital Humanities) (R&T) at University of Glasgow","Glasgow, UK","Grade 7/8, £41,064 - £46,049 / £50,253 - £58,225 per annum"
+"2025-11-04","Getty Graduate Internship Program 2026-2027","Los Angeles, US","$52,500 plus $1,500 towards relocation expenses"
+"2025-11-02","Vacancy for Collections Development Manager (HSDS) at  Archaeology Data Service","York, England","£37,694 - £46,049 a year"
+"2025-10-29","Vacancy for Digital Archivist at SKAO","Cheshire, UK","£37,000- £44,000 depending on experience plus excellent benefits"
+"2025-10-29","Vacancy for Deputy Head of Archives and Libraries at Historic Environment Scotland","Edinburgh, United Kingdom","Starting salary: £48,448"
+"2025-10-27","Vacancy for Senior Digital Archivist at the Welsh Government","Pan Wales","SEO £45,974 to £54,431"
+"2025-10-21","Vacancy for Web Archiving Data Analyst and Crawl Engineer at The National Archives (UK)","London, England","£40,000"
+"2025-10-13","Vacancy for Digital Media Specialist Team Leader at the British Film Institute","National Archive, Berkhamsted/Hybrid (3 days on site per week)","£35,640 - £41,763 per annum"
+"2025-10-05","Vacancy for Senior Coordinator, Digitisation at the University of Queensland Library, Brisbane, Australia","St Lucia campus, University of Queensland, Brisbane, Australia","$AUD102,565 - $AUD111,686 (HEW 7), plus a generous superannuation allowance of up to 17%."
+"2025-10-03","Vacancy for Assistant Director for Access at Rockefeller Archive Center","New York, USA","$105,026-$157,539K per year"
+"2025-10-02","Vacancy for Software Developer for Digital Long-Term Preservation at Austrian Library Network and Service Ltd. (OBVSG)","Vienna, Austria","Starting at EUR 52,000"
+"2025-10-02","Vacancy for Archivist at UK Hydrographic Office","Taunton, England","£38,173"
+"2025-09-26","Vacancy for Digital Preservation Officer (Maternity Cover) at University of Oxford","Oxford, England","£49,119 - £58,265 per annum"
+"2025-09-22","Vacancy for Research Data Specialist at Digital Curation Centre","United Kingdom (Hybrid)","Grade UE07: £41,064 - £48,822 per annum"
+"2025-09-17","Vacancy for Archives/Records Officer-ITDSGIG at International Monetary Fund","Washington DC, USA","Not listed"
+"2025-09-15","Vacancy for Web Interface Developer at Archaeology Data Service","York, England","£32,080 - £36,636 a year"
+"2025-08-28","Vacancy for Digital Preservation Technical Analyst at State Library of South Australia","Adelaide, Australia","$85,790 - $95,413"
+"2025-08-17","Vacancy for Collection Systems Project Officer at National Museum of Australia","Canberra, Australia","$84,228.00 - $91,809.00"
+"2025-08-13","Vacancy for Head of Archives and Library at Historic Environment Scotland","Edinburgh, Scotland (Hybrid)","£57996"
+"2025-08-11","Tender Opportunity for Senior Technology Advisor and a Senior Technical Product Advisor at Towards a National Collection","Not listed","Not listed"
+"2025-07-31","Vacancy for Time-Based Media Fellowship at Heritage Conservation Centre","Singapore","Monthly stipend of SGD5,000"
+"2025-07-30","Vacancy for Research Associate GLOW at Loughborough University","Hybrid, Loughborough","£35,110 to £45,413"
+"2025-07-29","Vacancy for Research Projects Data Analyst at The National Archives (UK)","London, England","£32,721.00 - £40,680.00 per annum"
+"2025-07-17","Vacancy for Head of Digital Archiving at National Records of Scotland","Edinburgh, Scotland","£57,701.00 -  £71,942.00"
+"2025-07-14","Vacancy for Senior Librarian, Digital Curation at the University of Queensland Library","Brisbane, Australia","AUD $100,554 - $109,496, plus a generous super allowance of up to 17%"
+"2025-06-30","Vacancy for a Digital Collections Systems Specialist at the University of Glasgow Library","Glasgow, Scotland","Grade 7, £40,497 - £45,413 per annum"
+"2025-06-29","Vacancy for Senior Manager, Special Collections at the University of Queensland Library","Brisbane, Australia","AUD $132,647 - $140,276, +17% superannuation"
+"2025-06-17","Vacancy for Digital Archivist at National Records of Scotland","Edinburgh, United Kingdom (Hybrid)","£ 36,944.00 -  £ 42,244.00"
+"2025-06-15","Vacancy for Digital Asset Manager (Audiovisual) at Science Museum Group","London, Manchester, Bradford, York, or Wroughton, United Kingdom","£42,978-£44,336"
+"2025-06-12","Vacancy for a Digital Research Collections Co-ordinator at the University of Glasgow Library","Glasgow, Scotland","Grade 6, £33,482 - £37,174 per annum"
+"2025-06-04","Vacancy for Digital Preservation Librarian at Yale University Library","Remote, approved states","$78,000 - $90,000"
+"2025-06-04","Vacancy for Digital Library Systems Developer at University of Glasgow","Glasgow, Scotland","Grade 7, £40,497 - £45,413 per annum"
+"2025-06-04","Vacancy for Digital Archivist at Historic Environment Scotland","Edinburgh, United Kingdom (Hybrid)","Starting salary: £32,255"
+"2025-06-02","Vacancy for Project Manager - Digital Preservation at Victoria University","Footscray, Australia","$110,100 - $123,987 per annum plus 17% superannuation,"
+"2025-06-02","Vacancy for Head of Unique Collections at the National Library of Wales","Aberystwyth, Wales, UK.","Band 6: £56,515 - £65,206"
+"2025-06-02","Vacancy for Head of Collection Care at the National Library of Wales","Aberystwyth, Wales, UK.","Band 6: £56,515 - £65,206"
+"2025-06-01","Vacancy for Manager, Scholarly Communication and Research Outputs at Deakin University","Melbourne","Not listed"
+"2025-05-30","Developing Frameworks for Born-Digital and Hybrid Collections V&A Doctoral Placement","Cromwell Road, London","Unpaid PHD Placement"
+"2025-05-30","Developing a Digital Research Repository for the V&A - V&A Doctoral Placement","Cromwell Road, London","Unpaid PHD Placement"
+"2025-05-25","Vacancy for Digital Asset Management System Coordinator at National Museum of Australia","Canberra ACT, Australia","$94,563 - $105,910"
+"2025-05-21","Vacancy for Senior Programme and Communications Manager at Digital Repository of Ireland","Dublin, Ireland","€53,640 – €71,282"
+"2025-05-20","Vacancy for Digital Archives Coordinator at the National Theatre Archives","London, England","£33,469.48"
+"2025-05-14","Vacancy for Data Analyst (Developer) at The National Archives UK","London, England","£42,000 (£34,000 plus £8,000 market supplement)"
+"2025-05-14","Vacancy for Archives and Records Management Officer at McGill University","Montreal, Canada","(MPEX Grade 04) $63,810.00 - $79,760.00 - $95,710.00"
+"2025-05-11","Vacancy for Project Officer, Research Data Management at University of Melbourne","Parkville, Melbourne","UoM 7 - $106,432 - $115,211 p.a. plus 17% super"
+"2025-05-06","Vacancy for Head of Department of Informatics at King's College London","London, UK","Not listed"
+"2025-05-05","Vacancy for Senior Library Assistant - Enlighten at University of Glasgow","Glasgow, Scotland","Grade 4, £23,881 - £26,338 per annum"
+"2025-04-28","Vacancies for Head of Good Practice and Head of Workforce Development - DPC","Flexible","Grade 8 (£49,559 - £62,728 p/a)"
+"2025-04-27","Vacancy for Senior Software Developer (Digital Preservation) at Cambridge University Library","Cambridge, UK","£41,671-£55,755"
+"2025-04-21","Vacancy for Developer ( .NET) at National Records of Scotland","Edinburgh, United Kingdom","£36,944.00 - £42,244.00"
+"2025-04-10","Vacancy for Senior Digital Collections Specialist at Library of Congress","Washington, DPC","$120,579 - $156,755 per year"
+"2025-04-01","Vacancy for Information Management Competency Area Manager at EUMETSAT","Darmstadt, Germany","Minimum basic salary for this post is EURO 9,058 per month"
+"2025-04-01","Vacancy for Digital Preservation Librarian, Libraries and Cultural Resources at University of Calgary","Calgary, Alberta","Not listed"
+"2025-03-28","Vacancy for Digital Archivist at Indiana University Libraries","Indiana, United States","Not listed"
+"2025-03-28","Vacancy for Digital Archivist at Indiana University","Bloomington, Indiana","Not listed"
+"2025-03-19","Vacancy for Open Research Manager (Research Data, Repository and Theses) at University of St Andrews","Scotland","£38,249 - £45,413 per annum"
+"2025-03-16","Vacancy for Assistant Archivist - Archive Management System at Cambridge University Library","Cambridge, England","£30,805-£35,116 pro rata"
+"2025-03-15","Vacancy for Repository Manager at Centrum Wiskunde & Informatica (CWI)","Amsterdam","3,458 - 5,486 EURO per month"
+"2025-03-10","Recruiting for Non-Executive Directors at National Records of Scotland","Not listed","Not listed"
+"2025-03-03","Vacancy for Research Associate at Loughborough University","Loughborough","£35,116 to £45,413 per annum"
+"2025-03-03","Vacancy for Digital Media Specialist at the British Film Institute","National Archive, Berkhamsted/Hybrid","£31,235 - £33,135 per annum"
+"2025-02-21","Vacancy for Ad Astra Fellow - Lecturer/Assistant Professor in AI and Digital Cultural Heritage at University College Dublin","Dublin, Ireland","€62,855 - €99,533 Per Annum"
+"2025-02-20","Vacancy for Training Manager and Digital Archivist at Digital Repository of Ireland","Ireland","€52,588 - €69,884."
+"2025-02-16","Vacancy for Head of Digitisation at SOAS","London, England","£51248.57 to £60268.57 Per Annum"
+"2025-02-10","Vacancy for Repository and Open Access Manager at University of London","London Senate House","£40,914"
+"2025-02-09","Vacancy for Program Manager, Technical Acquisitions at the National Library of Australia","Australia","$91,883 to $101,178 AUD base salary, plus 15.4% superannuation"
+"2025-02-09","Vacancy for Digital Collections Systems Specialist at University of Glasgow","Glasgow","Grade 7, £40,247 - £49,250 per annum"
+"2025-02-09","Vacancy for Archivist (Digital Preservation) at University of Glasgow","Glasgow","Grade 7, £40,247 - £49,250 per annum"
+"2025-01-31","Conservation & Collections Care Manager at the University of Leeds Libraries","Leeds - Main Campus","£39,105 to £46,485 per annum"
+"2025-01-30","Vacancy for Senior Archivist at RMIT University","Melbourne, Australia","Salary HEW 7 + 17% Superannuation"
+"2025-01-30","Vacancy for Digital Preservation Ingest Analyst at World Bank Group","Sofia, Bulgaria","62,190.00 to 88,8840 Bulgarian Lev, net of taxes"
+"2025-01-20","Vacancy for DMPOnline Service Manager at the Digital Curation Centre","Edinburgh, GB (Hybrid working)","£49,250.00 - £60,321.00 Per Annum"
+"2025-01-12","Vacancy for Digital Archives Assistant at the University of York","University of York - King's Manor (with some remote working options available)","£26,038 - £28,081 p/a"
+"2025-01-05","Vacancy for Digital Archivist at The National Archives (TNA)","Richmond, UK / Hybrid remote","£32,721 - £37,000 p/a"
+"2025-01-03","Vacancy for Digital Library Systems Developer at University of Glasgow","Glasgow, Scotland","£40,247 - £45,163 per annum"
+"2024-12-22","Vacancy for Rights and Permissions Coordinator at National Museum of Australia","Australia","$90,199.00 - $101,022.00"
+"2024-12-18","Vacancy for Open Research Support Officer, National Open Research Forum (NORF) at the Digital Repository of Ireland (DRI)","Ireland","€52,588 – €69,884."
+"2024-12-17","Vacancy for Senior Digital Preservation Specialist at U.S. National Archives and Records Administration (NARA)","Remote, US","($103,409 - $167,336 per year"
+"2024-12-10","Vacancy for Section Head (Archives and Records Management) at International Atomic Energy Agency","Vienna, Austria","Starting at US $77326"
+"2024-12-06","Vacancy for Lead Electronic Records Accessioning Archivist at US National Archives","College Park, MD","$117,962 - $153,354 USD per year"
+"2024-12-04","Vacancy for Digital Preservation Specialist at US National Archives","College Park, MD","$99,200 - $128,956 USD per year"
+"2024-12-01","Vacancy for Assistant Archivist: Digital Preservation and Access at University of the Arts London","London College of Communication, Elephant and Castle, London","£33,661 to £40,377 per annum, pro rata"
+"2024-11-22","Vacancy for Preservation Assistant at National Library of Scotland","Sighthill, Scotland","£27,642 (13,821 pro-rata)"
+"2024-11-18","Vacancy for Archivist (Press, digital) at Cambridge University Press & Assessment","Cambridge, England","£31,000 to £34,000 pro rata"
+"2024-11-06","Vacancy for Lecturer in Information Studies (Libraries) at University of Glasgow","Glasgow, Scotland","£40,247 - £45,163 per annum."
+"2024-11-06","Vacancy for  Lecturer in Information Studies (Archives) at University of Glasgow","Glasgow, Scotland","£40,247 - £45,163 per annum."
+"2024-11-04","Getty Graduate Internship Program 2025-2026","Los Angeles","$47,500 + $1,500 towards relocation expenses"
+"2024-11-03","Vacancy for Assistant Director at National Archives of Australia","Various, can be located at any of NAA’s State or Territory offices","$114,825 to $123,583 per annum"
+"2024-11-01","Vacancy for Audio Visual Preservation Coordinator at State Library of South Australia","Audio Visual Preservation Coordinator","$82,090 - $87,758"
+"2024-10-28","Vacancy for Digital Engagement Archivist at University of Westminster","London, England","£31,389 pro rata (incl. LWA)"
+"2024-10-22","Vacancy for Program Manager, Digital Preservation at University of Melbourne","Parkville, Melbourne","UOM 8 – $119,752 – $129,607 p.a. plus 17% super"
+"2024-10-18","8 Vacancies at Heritage Science Data Service (Archaeology Data Service)","England","Not listed"
+"2024-10-16","Vacancy for Digital Archive Officer at Historic Environment Scotland","Edinburgh and the Lothians","£27149 - £30221"
+"2024-10-06","Vacancy for Digitisation Technician at University of Leeds","Leeds, England","£24,248 to £25,742 per annum"
+"2024-09-29","Vacancy for Records Analyst at University of Adelaide Library","Adelaide, South Australia","HEO6, $89,383 - $96,550."
+"2024-09-18","Vacancy for Operations Manager (Digital Archiving) at The National Archives (UK)","London","£52,000 - £57,000 per annum"
+"2024-09-15","Vacancy for Manager, Special Collections and Archives at University of Adelaide Library","Adelaide, South Australia","HEO8, $110,291 to $123,734"
+"2024-09-15","Vacancy for Head of Collections Discovery & Systems at University of Glasgow","Glasgow, Scotland","£48,350 - £56,021 per annum."
+"2024-09-09","Vacancy for Digital Capabilities Engineer (Film) at the British Film Institute","National Archive, Berkhamsted/Hybrid","£42,480 - £49,695 per annum"
+"2024-09-01","Vacancy for Digital Archivist at University of Cambridge","Cambridge, England","£33,966-£44,263"
+"2024-08-21","Vacancy for Cyber Security Engineer at the British Film Institute","National Archive, Berkhamsted/Hybrid. This role requires 3 working days in Berkhamsted per week. Occasional travel to other BFI sites will be required","£42,480 - £49,695 per annum"
+"2024-08-19","Vacancy for Head of Digital Preservation at Yale University","Remote, Connecticut","Not listed"
+"2024-08-18","Vacancy for Digital Archives Relocation (DAR) Project Support Officer at Parliamentary Archives","London, UK","£31,000"
+"2024-08-11","Vacancy for Customer Services Archive Assistant at University of Warwick","University of Warwick Campus, Coventry","£22,776 to £23,144 per annum, pro rata"
+"2024-07-23","Vacancy for Digital Archives Assistant at the State Library of New South Wales","Sydney, Australia","Competitive remuneration package up to $115,654 AUD p.a. (package includes salary between $93,295 - $102,941 AUD p.a., plus employer’s contribution to superannuation and annual leave loading)"
+"2024-07-21","Vacancy for Senior Support Analyst at The National Archives (UK)","London, England","£31,178 - £38,761 per annum"
+"2024-07-19","Vacancy for Service Manager (HSDS) at Archaeology Data Service (ADS)","University of York - King's Manor","£44,263 - £54,395 a year"
+"2024-07-19","Vacancy for Communications and Training Assistant at Archaeology Data Service (ADS)","University of York - King's Manor","£25,138 - £27,181 a year"
+"2024-07-16","Project Digital Archivist at Bank of England","London, United Kingdom","£36,320 - £45,400 per annum"
+"2024-07-14","Vacancy for Archives Associate at International Atomic Energy Agency","Vienna, Austria","Starting at US $39401"
+"2024-07-11","Vacancy for Senior Digital Preservation Specialist/Analyst at U.S. National Archives and Records Administration","College Park, MD","$ 117,962 - $153,354 USD per year"
+"2024-07-08","Vacancy for EMKP Project Curator: Digital at The British Museum","London","£33,803 per annum"
+"2024-07-07","Vacancy for Data Curation Officers at STFC","Science and Technology Facilities Council, Rutherford Appleton Laboratory in Oxfordshire OR  Daresbury Laboratory in Cheshire","£48,802 - £53,682"
+"2024-06-23","Vacancy for Digital Preservation Project Manager at National Archives of Australia","Australia","Not listed"
+"2024-06-21","Vacancy for Curatorial & Policy Research Officer and Technical Research Officer, Algorithmic Archive Project at The Bodleian Libraries","Hybrid/Oxford","£36,024 - £44,263 (per annum)"
+"2024-06-17","Vacancy for Head of Preservation Imaging at Yale University Library","In-person position located in New Haven, CT but eligible for a hybrid schedule","$80-100K"
 2024-06-17,Vacancy for Head of Preservation Imaging at Yale University Library,"In-person position located in New Haven, CT but eligible for a hybrid schedule",$80-100K
+"2024-06-16","Vacancy for Project Archivists at University of Bristol","Bristol","£32,982-£37,099 per annum"
+"2024-06-13","Vacancy for Senior Digital Archivist (Transfer Lead) at The National Archives (UK)","London","£40,000 per annum"
+"2024-06-09","Vacancy for Head of Digital Preservation at the National Film and Sound Archive of Australia","Canberra","AUD $132,906.00 - $147,415.00"
 2024-06-09,Vacancy for Head of Digital Preservation at the National Film and Sound Archive of Australia,Canberra,"AUD $132,906.00 - $147,415.00"
+"2024-06-05","Vacancy for Digital Asset Manager at Freelands Foundation","Hybrid, Freelands Foundation office in London and from home","£6,000 (including VAT)"
 2024-06-05,Vacancy for Digital Asset Manager at Freelands Foundation,"Hybrid, Freelands Foundation office in London and from home","£6,000 (including VAT)"
+"2024-06-03","Vacancy for Lead Developer at APTrust","Remote","$110,000 - $130,000."
 2024-06-03,Vacancy for Lead Developer at APTrust,Remote,"$110,000 - $130,000."
+"2024-06-02","Vacancy for Assistant Archivist at Parliamentary Archives","Hybrid","£31,000"
 2024-06-02,Vacancy for Assistant Archivist at Parliamentary Archives,Hybrid,"£31,000"
+"2024-05-31","Vacancy for Digital Preservation Analyst at Harvard University","Hybrid; mostly remote (only from these states: CA, CT, GA, IL, MA, MD, ME, NH, NJ, NY, RI, VA, VT, WA) with occasional onsite at Cambridge, MA","USD $66,200 - $108,200"
 2024-05-31,Vacancy for Digital Preservation Analyst at Harvard University,"Hybrid; mostly remote (only from these states: CA, CT, GA, IL, MA, MD, ME, NH, NJ, NY, RI, VA, VT, WA) with occasional onsite at Cambridge, MA","USD $66,200 - $108,200"
+"2024-05-20","Vacancy for Digital Preservation Archivist at the British Film Institute","BFI National Archive, Berkhamsted. We operate a hybrid working model at the BFI. This role requires 4 working days per month at the Conservation Centre in Berkhamsted, Hertfordshire","£32,952 - £38,613 per annum"
 2024-05-20,Vacancy for Digital Preservation Archivist at the British Film Institute,"BFI National Archive, Berkhamsted. We operate a hybrid working model at the BFI. This role requires 4 working days per month at the Conservation Centre in Berkhamsted, Hertfordshire","£32,952 - £38,613 per annum"
 2024-05-19,"Vacancy for Archivist, Digital Archive Relocation (DAR) Project at Houses of Parliament",London (flexible working opportunities),"£36,500 pa"
-2024-05-12,Vacancy for Digital Archives Relocation (DAR) Project Lead at Parliamentary Archives,Not listed,"£43,500"
-2024-05-12,Vacancy for Collection Systems Specialist at National Film and Sound Archive of Australia,Canberra,"$90,199.00 - $101,022.00"
+"2024-05-19","Vacancy for Archivist, Digital Archive Relocation (DAR) Project at Houses of Parliament","London (flexible working opportunities)","£36,500 pa"
+"2024-05-12","Vacancy for Senior Research Data Steward at University College London","London","£51,474 to £63,921"
 2024-05-12,Vacancy for Senior Research Data Steward at University College London,London,"£51,474 to £63,921"
+"2024-05-12","Vacancy for Digital Archives Relocation (DAR) Project Lead at Parliamentary Archives","Not listed","£43,500"
+2024-05-12,Vacancy for Digital Archives Relocation (DAR) Project Lead at Parliamentary Archives,Not listed,"£43,500"
+"2024-05-12","Vacancy for Collection Systems Specialist at National Film and Sound Archive of Australia","Canberra","$90,199.00 - $101,022.00"
+2024-05-12,Vacancy for Collection Systems Specialist at National Film and Sound Archive of Australia,Canberra,"$90,199.00 - $101,022.00"
+"2024-05-03","Vacancy for Graduate Trainee Digital Archivist at University of Oxford","Oxford","£23,706 per annum"
 2024-05-03,Vacancy for Graduate Trainee Digital Archivist at University of Oxford,Oxford,"£23,706 per annum"
+"2024-05-01","Vacancy for Digital Preservation Specialist at US National Archives","Location negotiable","$86,962 - $140,713 per year, but can vary with locale"
 2024-05-01,Vacancy for Digital Preservation Specialist at US National Archives,Location negotiable,"$86,962 - $140,713 per year, but can vary with locale"
+"2024-04-28","Vacancy for Digital Curation and Preservation Specialist at University of Melbourne","Parkville, Melbourne","UOM 7 - $102,338 - $110,780p.a. plus 17% super (pro-rata for part-time)."
 2024-04-28,Vacancy for Digital Curation and Preservation Specialist at University of Melbourne,"Parkville, Melbourne","UOM 7 - $102,338 - $110,780p.a. plus 17% super (pro-rata for part-time)."
+"2024-04-25","Vacancy for Project Manager (NORF) at Digital Repository of Ireland","Ireland","€50,434 - €66,998."
 2024-04-25,Vacancy for Project Manager (NORF) at Digital Repository of Ireland,Ireland,"€50,434 - €66,998."
+"2024-04-14","Vacancy for Digital Preservation Manager at Tate","London","£40,862 per annum"
 2024-04-14,Vacancy for Digital Preservation Manager at Tate,London,"£40,862 per annum"
+"2024-04-09","Vacancy for Senior Manager - DPC Americas","Remote","$89,631 – $112,039 p/a"
 2024-04-09,Vacancy for Senior Manager - DPC Americas,Remote,"$89,631 – $112,039 p/a"
-2024-04-07,Vacancy for Digital Asset Management Coordinator at National Museum of Australia,"Canberra, ACT","$90,199.00 - $101,022.00"
-2024-04-07,Vacancy for Digitisation Coordinator at National Museum of Australia,Canberra,"$90,199.00 - $101,022.00"
-2024-04-07,Vacancy for Digitisation Officer at University of Bristol,Bristol,"£26,444-£29,605 per annum"
-2024-04-07,Vacancy for Digital Preservation Coordinator at National Museum of Australia,Canberra,"$90,199 - $101,022 +15.4% superannuation"
 2024-04-07,"Vacancy for Technical Assistant, Digital Preservation at National Museum of Australia",Canberra,"$80,341 - $87,572 + 15.4% superannuation"
-2024-04-07,Vacancy for Changeable and Digital Collections Senior Officer at National Museum of Australia,Canberra,"$90,199 - $101,022 +15.4% superannuation"
+"2024-04-07","Vacancy for Technical Assistant, Digital Preservation at National Museum of Australia","Canberra","$80,341 - $87,572 + 15.4% superannuation"
+"2024-04-07","Vacancy for Digitisation Officer at University of Bristol","Bristol","£26,444-£29,605 per annum"
+2024-04-07,Vacancy for Digitisation Officer at University of Bristol,Bristol,"£26,444-£29,605 per annum"
+"2024-04-07","Vacancy for Digitisation Coordinator at National Museum of Australia","Canberra","$90,199.00 - $101,022.00"
+2024-04-07,Vacancy for Digitisation Coordinator at National Museum of Australia,Canberra,"$90,199.00 - $101,022.00"
+"2024-04-07","Vacancy for Digital Preservation Manager at V&A","London, England","£45,359 - £60,479"
 2024-04-07,Vacancy for Digital Preservation Manager at V&A,"London, England","£45,359 - £60,479"
+"2024-04-07","Vacancy for Digital Preservation Coordinator at National Museum of Australia","Canberra","$90,199 - $101,022 +15.4% superannuation"
+2024-04-07,Vacancy for Digital Preservation Coordinator at National Museum of Australia,Canberra,"$90,199 - $101,022 +15.4% superannuation"
+"2024-04-07","Vacancy for Digital Asset Management Coordinator at National Museum of Australia","Canberra, ACT","$90,199.00 - $101,022.00"
+2024-04-07,Vacancy for Digital Asset Management Coordinator at National Museum of Australia,"Canberra, ACT","$90,199.00 - $101,022.00"
+"2024-04-07","Vacancy for Changeable and Digital Collections Senior Officer at National Museum of Australia","Canberra","$90,199 - $101,022 +15.4% superannuation"
+2024-04-07,Vacancy for Changeable and Digital Collections Senior Officer at National Museum of Australia,Canberra,"$90,199 - $101,022 +15.4% superannuation"
+"2024-04-03","Vacancy for Library Applications Analyst at University of Adelaide","Adelaide","$86,360 - $93,285 per annum plus an employer contribution of 17% superannuation applies."
 2024-04-03,Vacancy for Library Applications Analyst at University of Adelaide,Adelaide,"$86,360 - $93,285 per annum plus an employer contribution of 17% superannuation applies."
+"2024-03-31","PREMIS Editorial Committee Volunteer Opportunity","Not listed","Not listed"
 2024-03-31,PREMIS Editorial Committee Volunteer Opportunity,Not listed,Not listed
+"2024-03-29","Vacancy for Digital Preservation Manager at the IFI Irish Film Archive","Dublin, Ireland (hybrid working options)","Starting salary will depend on experience and will be according to the following Senior Manager pay scale Levels: L1 40,800, L2 41,820, L3 42,865, L4 43,937, LS1 45,475, LS2 47,066 ("
 2024-03-29,Vacancy for Digital Preservation Manager at the IFI Irish Film Archive,"Dublin, Ireland (hybrid working options)","Starting salary will depend on experience and will be according to the following Senior Manager pay scale Levels: L1 40,800, L2 41,820, L3 42,865, L4 43,937, LS1 45,475, LS2 47,066 ("
 2024-03-25,Vacancy for EMKP Project Curator: Digital at The British Museum,London,"£33,803 per annum"
+"2024-03-18","Vacancy for Digital Archives Assistant at Archaeology Data Service","York, England","£25,138 - £27,181 a year"
 2024-03-18,Vacancy for Digital Archives Assistant at Archaeology Data Service,"York, England","£25,138 - £27,181 a year"
+"2024-03-18","Vacancy for Collections Development Officer at Archaeology Data Service","York, England","£30,487 - £34,980 a year"
 2024-03-18,Vacancy for Collections Development Officer at Archaeology Data Service,"York, England","£30,487 - £34,980 a year"
+"2024-03-12","Vacancy for Digital Collections Project Analyst at the State Library of New South Wales","Sydney, Australia","Competitive remuneration package up to $131,857 AUD p.a"
 2024-03-12,Vacancy for Digital Collections Project Analyst at the State Library of New South Wales,"Sydney, Australia","Competitive remuneration package up to $131,857 AUD p.a"
+"2024-03-10","Vacancy for Research Data Librarian at The London School of Economics and Political Science","London","£40,229 to £48,456 pa inclusive"
 2024-03-10,Vacancy for Research Data Librarian at The London School of Economics and Political Science,London,"£40,229 to £48,456 pa inclusive"
-2024-03-05,Vacancy for Digital Media Specialists Team Leader at the British Film Institute,Berkhamsted/Hybrid,"£32,952-£38,613 per annum"
+"2024-03-05","Vacancy for Head of Open Research at University of Sheffield","Sheffield, UK","£46,974 to £56,021 per annum, with potential to progress to £63,029 per annum"
 2024-03-05,Vacancy for Head of Open Research at University of Sheffield,"Sheffield, UK","£46,974 to £56,021 per annum, with potential to progress to £63,029 per annum"
+"2024-03-05","Vacancy for Digital Media Specialists Team Leader at the British Film Institute","Berkhamsted/Hybrid","£32,952-£38,613 per annum"
+2024-03-05,Vacancy for Digital Media Specialists Team Leader at the British Film Institute,Berkhamsted/Hybrid,"£32,952-£38,613 per annum"
+"2024-03-03","Vacancy for Web Archive Technical Lead at British Library","St Pancras / Boston Spa","£51,188 - £65,833 (STP) / £47,250 - £61,895 (BSP)"
 2024-03-03,Vacancy for Web Archive Technical Lead at British Library,St Pancras / Boston Spa,"£51,188 - £65,833 (STP) / £47,250 - £61,895 (BSP)"
+"2024-02-27","Vacancy for Senior Digital Preservation Specialist/Analyst at US National Archives","Location negotiable after selection","$103,409 - $167,336 USD per year, but can vary with locale"
 2024-02-27,Vacancy for Senior Digital Preservation Specialist/Analyst at US National Archives,Location negotiable after selection,"$103,409 - $167,336 USD per year, but can vary with locale"
+"2024-02-26","Vacancy for Research Associate at University of Glasgow","Glasgow","£39,347 to £44,263 per annum"
 2024-02-26,Vacancy for Research Associate at University of Glasgow,Glasgow,"£39,347 to £44,263 per annum"
 2024-02-26,"Vacancy for Project Archivist, Metadata Support at University of Oxford",Oxford,"£32,332 - £38,205 per annum"
+"2024-02-26","Vacancy for Project Archivist, Metadata Support at University of Oxford","Oxford","£32,332 - £38,205 per annum"
+"2024-02-22","Vacancy for Digital Media Specialist (Our Screen Heritage) at the British Film Institute","Berkhamsted/Hybrid working","£27,498-£29,880 per annum"
 2024-02-22,Vacancy for Digital Media Specialist (Our Screen Heritage) at the British Film Institute,Berkhamsted/Hybrid working,"£27,498-£29,880 per annum"
+"2024-02-20","Vacancy for Project Archivist (Cataloguer) at University of Oxford","Oxford","£32,332-£38,205 (per annum)"
 2024-02-20,Vacancy for Project Archivist (Cataloguer) at University of Oxford,Oxford,"£32,332-£38,205 (per annum)"
+"2024-02-19","Contract Opportunity for a Digital Preservation Dynamic Purchasing System (DPS) - Jisc","Not listed","Not listed"
 2024-02-19,Contract Opportunity for a Digital Preservation Dynamic Purchasing System (DPS) - Jisc,Not listed,Not listed
-2024-02-08,CLOCKSS seeks Collections Management Consultant,Not listed,Not listed
 2024-02-08,"Vacancy for Assistant Director, Digital Preservation at National Archives of Australia","Various, can be located at any of NAA’s State or Territory offices","$110,409 to $118,830 per annum"
+"2024-02-08","Vacancy for Assistant Director, Digital Preservation at National Archives of Australia","Various, can be located at any of NAA’s State or Territory offices","$110,409 to $118,830 per annum"
+"2024-02-08","CLOCKSS seeks Collections Management Consultant","Not listed","Not listed"
+2024-02-08,CLOCKSS seeks Collections Management Consultant,Not listed,Not listed
+"2024-02-06","Vacancy for National Open Research Coordinator at Digital Repository of Ireland (DRI)","Ireland","€76,551 - €91,762"
 2024-02-06,Vacancy for National Open Research Coordinator at Digital Repository of Ireland (DRI),Ireland,"€76,551 - €91,762"
+"2024-01-31","Vacancy for Archivist at Flickr Foundation","London, UK (preferred)","£55-65k / US$70-82k commensurate with experience, plus benefits."
 2024-01-31,Vacancy for Archivist at Flickr Foundation,"London, UK (preferred)","£55-65k / US$70-82k commensurate with experience, plus benefits."
+"2024-01-29","Vacancy for Library Infrastructure Architect at University of Liverpool","Liverpool, England","£38,205 - £44,264 pa"
 2024-01-29,Vacancy for Library Infrastructure Architect at University of Liverpool,"Liverpool, England","£38,205 - £44,264 pa"
-2024-01-28,Vacancy for Digitisation Officer (Hong Kong Project) at University of Bristol,"Bristol, England","£26,444-£29,605 per annum, pro rata"
-2024-01-28,Vacancy for Project Archivist (Hong Kong Project) at University of Bristol,"Bristol, England","£32,982-£37,099 per annum"
+"2024-01-28","Vacancy for Senior Archivist (Standards and Workflow) at The National Archives (UK)","London, UK","£36,515 per annum"
 2024-01-28,Vacancy for Senior Archivist (Standards and Workflow) at The National Archives (UK),"London, UK","£36,515 per annum"
+"2024-01-28","Vacancy for Project Archivist (Hong Kong Project) at University of Bristol","Bristol, England","£32,982-£37,099 per annum"
+2024-01-28,Vacancy for Project Archivist (Hong Kong Project) at University of Bristol,"Bristol, England","£32,982-£37,099 per annum"
+"2024-01-28","Vacancy for Digitisation Officer (Hong Kong Project) at University of Bristol","Bristol, England","£26,444-£29,605 per annum, pro rata"
+2024-01-28,Vacancy for Digitisation Officer (Hong Kong Project) at University of Bristol,"Bristol, England","£26,444-£29,605 per annum, pro rata"
+"2024-01-26","Vacancy for Digital Archivist at University of St Andrews","Scotland","£30,487 - £36,024 per annum"
 2024-01-26,Vacancy for Digital Archivist at University of St Andrews,Scotland,"£30,487 - £36,024 per annum"
+"2024-01-24","Vacancy for Digital Preservation Librarian at New York University","New York, United States","$70,000 - $110,000"
 2024-01-24,Vacancy for Digital Preservation Librarian at New York University,"New York, United States","$70,000 - $110,000"
+"2024-01-19","Vacancy for Digital Repository Services Manager at National Library of Ireland","Dublin, Ireland","€68491 - €83525"
 2024-01-19,Vacancy for Digital Repository Services Manager at National Library of Ireland,"Dublin, Ireland",€68491 - €83525
+"2024-01-18","Vacancy for Executive Director at National and State Libraries Australasia (NSLA)","Australia (Canberra preferred)","$150,000 plus 11% superannuation"
 2024-01-18,Vacancy for Executive Director at National and State Libraries Australasia (NSLA),Australia (Canberra preferred),"$150,000 plus 11% superannuation"
+"2024-01-02","Vacancy for Information Governance Officer at Heriot-Watt University","Edinburgh, Scotland","Grade 7 £36,023.00 - £44,263.00"
 2024-01-02,Vacancy for Information Governance Officer at Heriot-Watt University,"Edinburgh, Scotland","Grade 7 £36,023.00 - £44,263.00"
 2023-12-24,"Vacancy for Archivist, Asia Pacific - Global Functions at HSBC","Kowloon City, Hong Kong",Not listed
+"2023-12-24","Vacancy for Archivist, Asia Pacific - Global Functions at HSBC","Kowloon City, Hong Kong","Not listed"
+"2023-12-21","Vacancy for Archives Associate at International Atomic Energy Agency (IAEA)","Vienna, Austria","Starting at US $39401"
 2023-12-21,Vacancy for Archives Associate at International Atomic Energy Agency (IAEA),"Vienna, Austria",Starting at US $39401
+"2023-12-11","Vacancy for Data Wrangler at Archaeology Data Service","York, UK","£36,024 - £44,263 a year"
 2023-12-11,Vacancy for Data Wrangler at Archaeology Data Service,"York, UK","£36,024 - £44,263 a year"
-2023-12-10,Vacancy for Digital Archivist at Central European University,"Budapest, Hungary",Not listed
-2023-12-10,Vacancy for Digital Collections Management Coordinator at the British Library,"Boston Spa/St Pancras, UK","£29,000 (BSP) / £32,000 (STP)"
+"2023-12-10","Vacancy for Open Repositories Team Lead at STFC","Oxfordshire OR Warrington, UK","£46,700-£51,370"
 2023-12-10,Vacancy for Open Repositories Team Lead at STFC,"Oxfordshire OR Warrington, UK","£46,700-£51,370"
+"2023-12-10","Vacancy for Digital Collections Management Coordinator at the British Library","Boston Spa/St Pancras, UK","£29,000 (BSP) / £32,000 (STP)"
+2023-12-10,Vacancy for Digital Collections Management Coordinator at the British Library,"Boston Spa/St Pancras, UK","£29,000 (BSP) / £32,000 (STP)"
+"2023-12-10","Vacancy for Digital Archivist at Central European University","Budapest, Hungary","Not listed"
+2023-12-10,Vacancy for Digital Archivist at Central European University,"Budapest, Hungary",Not listed
+"2023-12-06","Vacancy for Digitisation Officer at RIBA","London/Hybrid working","c£27,000 per annum based upon skills and location"
 2023-12-06,Vacancy for Digitisation Officer at RIBA,London/Hybrid working,"c£27,000 per annum based upon skills and location"
+"2023-12-03","Vacancy for Research Associate in Virtual Museum Curation at University of Glasgow","Glasgow, Scotland","£39,347 - £44,263 per annum."
 2023-12-03,Vacancy for Research Associate in Virtual Museum Curation at University of Glasgow,"Glasgow, Scotland","£39,347 - £44,263 per annum."
+"2023-11-30","Vacancy for Senior Digital Collections Data Librarian at Library of Congress","Washington, DC","$112,015 - $145,617 per year"
 2023-11-30,Vacancy for Senior Digital Collections Data Librarian at Library of Congress,"Washington, DC","$112,015 - $145,617 per year"
+"2023-11-27","Vacancy for Preventive Conservator (Archives) at Imperial War Museum","Duxford, England","£28,017 per annum (Trading Company Contract) or £27,274 per annum (Museum Contract)"
 2023-11-27,Vacancy for Preventive Conservator (Archives) at Imperial War Museum,"Duxford, England","£28,017 per annum (Trading Company Contract) or £27,274 per annum (Museum Contract)"
+"2023-11-26","Vacancy for Senior Archivist at University of Bristol","Bristol, UK","£41,732-£46,974 per annum"
 2023-11-26,Vacancy for Senior Archivist at University of Bristol,"Bristol, UK","£41,732-£46,974 per annum"
+"2023-11-22","Vacancy for 2x Application Engineer (Digital Library) at University of Leeds","Leeds, UK","£37,099 to £44,263 per annum"
 2023-11-22,Vacancy for 2x Application Engineer (Digital Library) at University of Leeds,"Leeds, UK","£37,099 to £44,263 per annum"
+"2023-11-21","Vacancy for DRI Director at the Digital Repository of Ireland","Ireland","€58,116 - €95,432."
 2023-11-21,Vacancy for DRI Director at the Digital Repository of Ireland,Ireland,"€58,116 - €95,432."
+"2023-11-21","Vacancy for 3 x Digitisation Technician Posts at University of Leeds","Leeds, UK","£22,681 to £25,138 per annum pro-rata"
 2023-11-21,Vacancy for 3 x Digitisation Technician Posts at University of Leeds,"Leeds, UK","£22,681 to £25,138 per annum pro-rata"
+"2023-11-20","Vacancy for Digital Production Technician at the University of Arizona","Tucson, AZ USA","$53,039 - DOE"
 2023-11-20,Vacancy for Digital Production Technician at the University of Arizona,"Tucson, AZ USA","$53,039 - DOE"
+"2023-11-19","Vacancy for Digital Collections Conservator at the British Library","Boston Spa or St Pancras, UK","Boston Spa £29,000 / St Pancras £32,000"
 2023-11-19,Vacancy for Digital Collections Conservator at the British Library,"Boston Spa or St Pancras, UK","Boston Spa £29,000 / St Pancras £32,000"
+"2023-11-17","Vacancy for Digital Preservation Manager at Tate","London, England","£40,862 per annum"
 2023-11-17,Vacancy for Digital Preservation Manager at Tate,"London, England","£40,862 per annum"
 2023-11-17,Vacancy for Assistant Digital Preservation Analyst at Rockefeller Archive Center,"New York, US","s $66,422 - $96,312 per year"
+"2023-11-14","Vacancy for Head of Library Research Services at University of Bath","Bath, England","Starting from £56,021, rising to £64,914"
 2023-11-14,Vacancy for Head of Library Research Services at University of Bath,"Bath, England","Starting from £56,021, rising to £64,914"
+"2023-11-14","Vacancy for EMKP Project Curator at The British Museum","AOA Bloomsbury and Orsman Road","£28,868 per annum"
 2023-11-14,Vacancy for EMKP Project Curator at The British Museum,AOA Bloomsbury and Orsman Road,"£28,868 per annum"
+"2023-11-14","Vacancy for Commercialisation Project Officer at University of Southampton","Southampton, England","£34,980 to £42,978 Pro rata per annum"
 2023-11-14,Vacancy for Commercialisation Project Officer at University of Southampton,"Southampton, England","£34,980 to £42,978 Pro rata per annum"
+"2023-11-12","Vacancy for Library Services Manager at STFC","Oxfordshire or Warrington, UK","£40,543 to £45,049 per annum"
 2023-11-12,Vacancy for Library Services Manager at STFC,"Oxfordshire or Warrington, UK","£40,543 to £45,049 per annum"
+"2023-11-09","Vacancy for Digital Imaging Specialist at the University of Liverpool","Liverpool, UK","£32,333 to £37,100"
 2023-11-09,Vacancy for Digital Imaging Specialist at the University of Liverpool,"Liverpool, UK","£32,333 to £37,100"
 2023-11-06,Vacancy for Digital Library Software Developer at University of Edinburgh,"Edinburgh, Scotland","£37,099 - £44,263 per annum"
 2023-11-06,Vacancy for Community Archive Officer at Hampshire County Council,"Hampshire Record Office, Winchester - this is a hybrid role","£23,703 - £26,401 per annum"
+"2023-11-05","Vacancy for Curatorial Officer at National Film and Sound Archive","Canberra, Australia","$69,736.00 - $74,400.00"
 2023-11-05,Vacancy for Curatorial Officer at National Film and Sound Archive,"Canberra, Australia","$69,736.00 - $74,400.00"
 2023-11-03,Vacancy for Unit Head (Archives Unit) at International Atomic Energy Agency,"Vienna, Austria",Starting at US $64121
 2023-11-03,Vacancy for Head of the Archives Unit at the International Atomic Energy Agency,Austria-Vienna-Vienna-IAEA Headquarters,Net base salary starting at US $64121
 2023-11-01,Getty Graduate Internship Program 2024-2025,Los Angeles,"$47,500 + $1,500 towards relocation expenses"
+"2023-10-31","Vacancy for Digital Content Manager at National Museums Scotland","Edinburgh, Scotland","£38,803 - £41,785 per annum"
 2023-10-31,Vacancy for Digital Content Manager at National Museums Scotland,"Edinburgh, Scotland","£38,803 - £41,785 per annum"
 2023-10-30,Vacancy for Digital Archive Officer at HES Archives,Edinburgh and the Lothians,£23971 - £26842
 2023-10-30,Vacancy for Archivist at HES Archives,Edinburgh and the Lothians,£28541 - £34702
@@ -93,25 +300,25 @@ Date,Title,Location,Salary
 2023-10-08,Vacancy for Imaging and Digital Products Manager at British Library,"St Pancras, London","£39,000"
 2023-10-06,Vacancy for Digitisation Technician (Time – based media) Preservation at Imperial War Museum,"Duxford, Cambridge, UK","£28,017 per annum"
 2023-10-02,Vacancy for Digital Audiovisual Preservation Manager at National Archives of Australia,"Sydney, Australia",Not listed
-2023-10-01,Vacancy for Digital Preservation Technology Analyst at World Bank Group,"Washington, DC,United States","$77,000 - $105,000 USD (net of tax)"
 2023-10-01,Vacancy for Open Repositories Manager at University of Strathclyde,Scotland,"£45,585 - £56,021"
+2023-10-01,Vacancy for Digital Preservation Technology Analyst at World Bank Group,"Washington, DC,United States","$77,000 - $105,000 USD (net of tax)"
 2023-09-29,Vacancy for Archivist – Electronic Archives at the Publications Office of the EU,Luxembourg,"3 271,87 EUR - 4 739,00 EUR"
 2023-09-29,PhD Studentship: Digital Twins: Post-Digital Books & the Library-Lab,"Oxford, UK","£18,622"
 2023-09-28,Vacancy for Assistant Keeper (Collections) at University of Bristol,"Bristol, UK","£32,982 - £37,099 per annum, pro rata"
-2023-09-26,Vacancy at the Digital Preservation Coalition: Preservation Registry Analyst,Remote,"Between £38,474 and £47,047"
 2023-09-26,Vacancy for IIPC Administrative Officer at IIPC,Remote,"$45,000"
-2023-09-19,Vacancy for Digital Archive Assistant at University of Bristol,"Bristol, UK","£24,248-£26,444 per annum, pro rata"
+2023-09-26,Vacancy at the Digital Preservation Coalition: Preservation Registry Analyst,Remote,"Between £38,474 and £47,047"
 2023-09-19,Vacancy for Digital Preservation Enterprise Fellow at University of Southampton,"Southampton, UK","£34,980 to £42,978 Per annum"
+2023-09-19,Vacancy for Digital Archive Assistant at University of Bristol,"Bristol, UK","£24,248-£26,444 per annum, pro rata"
 2023-09-18,Vacancy for Manuscripts Curator (Discovery and Access) at National Library of Scotland,"Edinburgh, Scotland","£41,004 per annum"
 2023-09-18,DPC in the Americas: Expressions of Interest Welcome,The Americas,Not listed
 2023-09-11,Vacancy for Senior Developer & Operations Specialist at University of Cambridge,"Cambridge, UK","£40,521-£54,395"
 2023-09-10,"Vacancy for Open Repositories Team Lead at Science and Technology Facilities Council, UKRI","Harwell, Oxfordshire, UK or Daresbury, Warrington, UK","£39,748 - £44,166 Band E"
 2023-09-07,Vacancy for Archive Technology Manager at BFI,"Berkhamsted, Hertfordshire, UK","£47,514 – 55,914 per annum"
-2023-09-06,Vacancy for Digital Preservation Training Officer at University of Southampton,"Southampton, England","£34,980 to £40,521 per annum"
 2023-09-06,Vacancy for Program Officer for Sustainable Digital Infrastructures at Educopia Institute,Remote,"$65,000 – 70,000"
+2023-09-06,Vacancy for Digital Preservation Training Officer at University of Southampton,"Southampton, England","£34,980 to £40,521 per annum"
 2023-09-04,Vacancy for Digitisation Team Leader (Access) at Imperial War Museums,"Duxford, England","£33,062 per annum"
-2023-08-30,Vacancy for Project Manager (maternity cover) at Digital Repository of Ireland,Ireland,"€49,684 - €66,007"
 2023-08-30,"Vacancy for Specialist, Library Systems and Digital Preservation at State Library Victoria","Melbourne, Australia","$91,418 - $103,725"
+2023-08-30,Vacancy for Project Manager (maternity cover) at Digital Repository of Ireland,Ireland,"€49,684 - €66,007"
 2023-08-28,Vacancy for IOR Digitisation Officer at British Library,"St Pancras, UK","£26,000 per annum"
 2023-08-27,Vacancy for Metadata & Publisher Outreach Specialist at Thoth Open Metadata,"Fully remote, work from home. Flexibility as to country of residence.","Between £30,000 and £40,000 per annum, negotiable depending on experience."
 2023-08-22,Vacancy for Archives Professional at BT Group,"London, UK",Not listed
@@ -127,8 +334,8 @@ Date,Title,Location,Salary
 2023-07-31,Vacancy for Contributor Success Specialist at Artefactual,"Remote, Canada","$70,000 - $96,000 yearly"
 2023-07-31,Vacancy for Assistant Archivist / Assistant Librarian - University Heritage Collections Development at University of Glasgow,"Glasgow, Scotland","£31,502 - £35,308 per annum"
 2023-07-27,Vacancy for Preservation Technician at Durham University,Durham,"£22,630 - £24,144 per annum"
-2023-07-26,Vacancy for Digital Project Manager at National Film and Sound Archive of Australia,Canberra,"$107,660.00 - $115,154.00"
 2023-07-26,Vacancy for Technical Analyst at National Film and Sound Archive of Australia,Canberra,"$107,660.00 - $115,154.00"
+2023-07-26,Vacancy for Digital Project Manager at National Film and Sound Archive of Australia,Canberra,"$107,660.00 - $115,154.00"
 2023-07-24,Vacancy for Digital Collections Specialist at Library of Congress,"Washington, DC","$64,957 - $84,441 per year"
 2023-07-23,Vacancy for Digital Collections Specialist at Science Museum Group,"Any SMG Site (London, Manchester, York, Bradford or Wroughton)","£34,000 - £37,000 per annum"
 2023-07-16,Vacancy for Senior Collections Development Officer (Archives) at Lincolnshire County Council,"Lincolnshire, UK","£31,099 - £34,723"
@@ -137,26 +344,26 @@ Date,Title,Location,Salary
 2023-07-10,Vacancy for Assistant Librarian/Project Archivist at Queen's University Belfast,Belfast,"£36,333 - £43,155 per annum"
 2023-07-09,Vacancy for Open Access Engagement Lead at Open Book Collective,Some flexibility as to country of residence,"£35,000 - £42,000 per year, depending on experience and country of residence"
 2023-07-02,Vacancy for Internships at the International Atomic Energy Agency (IAEA),"Vienna, Austria",€1000 per month
-2023-06-30,Vacancy for Archivist & Records Manager at Balliol College,Oxford,"Grade 7 (£35,308-£43,155)"
 2023-06-30,Vacancy for Digital Preservation Manager at Tate,London,"£37,601 per annum"
+2023-06-30,Vacancy for Archivist & Records Manager at Balliol College,Oxford,"Grade 7 (£35,308-£43,155)"
 2023-06-23,Request for Information (RFI) for a Digital Archive System for the IAEA's Digital Records,Not listed,Not listed
 2023-06-21,Vacancy for Archivist (Humanitarian Archives) at University of Manchester Library,"Manchester, UK","£35,308 to £43,155 per annum depending on relevant experience"
 2023-06-15,Vacancy for Change Manager - Library Technology Services at Harvard University,"Hybrid/Cambridge, MA","$96,800 USD"
 2023-06-09,Vacancy for Digitisation Technician Trainee at Imperial War Museums,"Duxford, UK","Circa £22,098 per annum"
 2023-06-06,Vacancy for Principal Digital Preservation Advisor at Queensland State Archives,Brisbane - South,$118197 - $126566
 2023-06-02,Vacancy for Project Archivist at University of London,London,"£34,418 - £36,212 per annum"
-2023-05-30,Vacancy for Digital Archive Assistant (Trainee) at Parliamentary Archives,"London, UK","£26,750"
 2023-05-30,Vacancy for Senior Digital Archivist at National Archives of Ireland,Ireland,"€68,491.00"
 2023-05-30,Vacancy for Digital Preservation Analyst at University of Arizona,"Tucson, Arizona","$55,000 + DOE"
+2023-05-30,Vacancy for Digital Archive Assistant (Trainee) at Parliamentary Archives,"London, UK","£26,750"
 2023-05-26,Vacancy for Lecturer in Information Studies at University of Glasgow,Glasgow,"£37,474 to £42,155"
 2023-05-25,Vacancy for Assistant Records and Information Manager at Historic England,Swindon,"£28,856 - £29,342 pro rata depending on experience."
 2023-05-23,Vacancy for Head of Special Collections and Archives at University of Liverpool,Liverpool,"£44,415 - £56,049 pa"
-2023-05-15,Vacancy for Audiovisual Archivist at United Nations International Residual Mechanism for Criminal Tribunals,The Hague,Not listed
 2023-05-15,Vacancy for Digital Archives Assistant at the Archaeology Data Service,"York, UK","£24,715 - £26,642 a year"
+2023-05-15,Vacancy for Audiovisual Archivist at United Nations International Residual Mechanism for Criminal Tribunals,The Hague,Not listed
 2023-05-14,Contract for Digital Preservation Facilitator at National Museum of the Royal Navy,"Portsmouth, UK","Maximum value of contract: £15,000"
 2023-05-10,Vacancy for Project Archivist (Hong Kong) at University of Bristol,Bristol,"£32,411 - £36,333 per annum"
-2023-05-07,"Vacancy for Conservation Manager, Time Based Media at Tate",London,"£43,000"
 2023-05-07,Vacancy for Railway Industry National Archivist at National Railway Museum,York,"£32,500 per annum"
+2023-05-07,"Vacancy for Conservation Manager, Time Based Media at Tate",London,"£43,000"
 2023-05-05,Vacancy for Digital Collections Asset Manager at National Trust for Scotland,Edinburgh,"£35,579 - £39,358"
 2023-05-03,Vacancy for Digital Preservation Manager at Imperial War Museum,Duxford,"Circa £40,000 per annum"
 2023-05-02,Vacancy for Data Manager at University College Dublin Library,Dublin,€48 381 - €65 549
@@ -174,19 +381,19 @@ Date,Title,Location,Salary
 2023-03-27,Vacancy for Archivist at University of London,London,"£38,109 - £45,953 per annum"
 2023-03-26,Vacancy for Senior Project Officer at National Archives of Australia,Australia,"$86,648 - $96,141 + 15.4% super"
 2023-03-24,Vacancy for Archivist at University of Nottingham,"Nottingham, England","£32,348 to £43,414 per annum"
-2023-03-23,Vacancy for Digital Preservation Assistant at National Theatre Archive,UK,"£26,500 per annum"
 2023-03-23,Vacancy for Records and Archive Officer (Archivist) at Isle of Man Public Record Office,Isle of Man,"£32,765 - £38,280 per annum"
-2023-03-19,Vacancy for Digital Preservation Intern at University of Edinburgh,Edinburgh,£11.18 per hour
+2023-03-23,Vacancy for Digital Preservation Assistant at National Theatre Archive,UK,"£26,500 per annum"
 2023-03-19,Vacancy for Head of Research Services (Open Research) at University of Leeds,Leeds,"£43,414 to £51,805 p.a."
-2023-03-17,Vacancy for Collection Management Archivist (Digital) at Queensland State Archives,Brisbane,$92658 - $100498
+2023-03-19,Vacancy for Digital Preservation Intern at University of Edinburgh,Edinburgh,£11.18 per hour
 2023-03-17,Vacancy for Digital Preservation Lead at Queensland State Archives,Brisbane,$105977 - $113167
+2023-03-17,Vacancy for Collection Management Archivist (Digital) at Queensland State Archives,Brisbane,$92658 - $100498
 2023-03-17,Vacancy for Archivist/Curator (Popular Music) at University of Liverpool,Liverpool,"£30,503 - £35,333 pa"
 2023-03-15,Vacancy for Collection Assistant at London School of Economics Library,London,"£28,240 to £31,527 pa inclusive with potential to progress to £33,753 pa inclusive of London allowance"
 2023-03-13,"Vacancy for Digital Preservation Specialist at Bodleian Libraries, University of Oxford",Oxford,"£43,414-£51,805 (per annum)"
 2023-03-10,Vacancy for Digital Heritage and Operations Manager at University of Liverpool,Liverpool,"£36,386 - £42,155 pa"
 2023-03-06,Vacancy for Technical Analyst at British Library,Boston Spa or St Pancras,"£29,000 BSP/£32,000 STP per annum"
-2023-03-05,Vacancy for Conservation Manager - Digitisation at The National Archives,London,"£32,000"
 2023-03-05,Vacancy for Digital Archivist at RMIT University,"Melbourne, Australia",Not listed
+2023-03-05,Vacancy for Conservation Manager - Digitisation at The National Archives,London,"£32,000"
 2023-03-02,"Vacancy for Manager, Digital Preservation at the National Archives of Australia","Sydney NSW, Canberra ACT, Melbourne VIC","$86,648 to $96,141 plus 15% super"
 2023-03-01,Vacancy for Head of Special Collections at University of Bristol,Bristol,"£46,047 - £51,805 per annum"
 2023-02-28,Vacancy for Research Fellow (Anniversary Fellowship) - Arts and Humanities at University of Southampton,Southampton,"£33,314 to £40,931 per annum"
@@ -195,10 +402,10 @@ Date,Title,Location,Salary
 2023-02-19,Vacancy for Trainee Digital Archivist / Digital Archivist at Orkney Council,Orkney,"£29,540 - £35,140 per year"
 2023-02-19,Vacancy for Special Collections and Archives Manager at Lancaster University,Lancaster,"£36,386 to £42,155"
 2023-02-09,Vacancy for Women’s Aid Federation England (WAFE) Collection Officer at University of Leeds,Leeds,"£24,285 to £27,929 p.a. pro rata"
-2023-02-08,Vacancy for Application Engineer (Library Special Collections) at University of Leeds,Leeds,"£35,333 to £42,155 p.a."
 2023-02-08,Vacancy for DRI Membership Manager at Digital Repository of Ireland (DRI),Ireland,"€48,710 - €64,713"
-2023-01-31,PhD Research position in Data Management in Prehistoric Archaeology,Not listed,Not listed
+2023-02-08,Vacancy for Application Engineer (Library Special Collections) at University of Leeds,Leeds,"£35,333 to £42,155 p.a."
 2023-01-31,Vacancy for Business Development Director at CLOCKSS,Not listed,Not listed
+2023-01-31,PhD Research position in Data Management in Prehistoric Archaeology,Not listed,Not listed
 2023-01-31,Opportunity for a Digital Preservation Consultant at the V&A,London,Up to £30K
 2023-01-29,Vacancy for Internal Accessions Officer at Historic England,Swindon,"£28,856 pro rata plus generous benefits"
 2023-01-29,Vacancy for Digital Archivist at Derbyshire County Council,"Derbyshire Record Office, Matlock","Grade 10, £31,109 - £34,314"
@@ -224,14 +431,14 @@ Date,Title,Location,Salary
 2021-05-17,Vacancy for Research Associate in Archiving and Preserving Open Access Books at Loughborough University,Loughborough,"Research grade 6 from £30,942"
 2021-05-16,Vacancy for Digital Preservation Project Officer at East Sussex County Council,Lewes,"£32,258 to £35,802 per annum"
 2021-05-12,Vacancy for Archives Manager at University of Warwick,Warwick,"£41,526 - £49,553 per annum"
-2021-05-03,"Vacancy for Assistant Head, Digital Content Management Section at Library of Congress","Washington, D.C.","$122,530 to $159,286 per annum"
 2021-05-03,Vacancy for Delivery Manager at The National Archives,"Richmond upon Thames, London","£47,000 per annum"
+2021-05-03,"Vacancy for Assistant Head, Digital Content Management Section at Library of Congress","Washington, D.C.","$122,530 to $159,286 per annum"
 2021-05-02,Vacancy for Digital Preservation Archivist at the University of York,York,"£40,322 - £49,553 a year"
 2021-04-15,Vacancy for Research Associate at Loughborough University,Loughborough,"Grade 6 from £30,942 - £31,865 pro rata"
 2021-04-14,Vacancy for Head of Archival Practice and Data Curation at the UK National Archives,"Kew, London","£45,133"
 2021-04-14,Vacancy at the DPC: Head of Finance and Sustainability,Glasgow,"Grade 7, points 32- 39 (£35,845-£44,045)"
-2021-04-13,Vacancy for Assistant Archivist at University of the Arts London,London,"£29,358 - £35,839"
 2021-04-13,Vacancy for Records Manager at The University of Sheffield,Sheffield,"Grade 7: £31,866 - £40,322"
+2021-04-13,Vacancy for Assistant Archivist at University of the Arts London,London,"£29,358 - £35,839"
 2021-04-12,Vacancy for Digital Access Coordinator at University of Leeds,Leeds,"£27,511 to £32,817 pa"
 2021-04-11,Vacancy for Assistant Data Services Specialist at The British Library,Boston Spa or St Pancras,"£23,250 per annum"
 2021-04-07,Vacancy for Digital Data Officer at the Museum of London Archaeology,Northampton,"£27,470 per annum plus benefits"
@@ -266,8 +473,8 @@ Date,Title,Location,Salary
 2020-09-25,CLOCKSS seeks Executive Director,Not listed,Not listed
 2020-09-09,Vacancy for Head of Collection Information and Digital Assets at National Galleries Scotland,Edinburgh,"£44,839 - £52,029 per annum"
 2020-08-31,Vacancy for Data Engineer at The National Archives,"Richmond upon Thames, London","£46,000"
-2020-08-21,Vacancy for Digital and Special Collections Archivist at the Art Gallery of New South Wales,Sydney,"$110,913"
 2020-08-21,Vacancy for Software Engineer with Bodleian Digital Library Systems & Services (BDLSS),"Oxford, UK","Grade 7: £32,817 – £40,322 per annum"
+2020-08-21,Vacancy for Digital and Special Collections Archivist at the Art Gallery of New South Wales,Sydney,"$110,913"
 2020-08-20,Vacancy for Web Archiving Product Manager at The National Archives UK,London,"£33,259"
 2020-07-24,Vacancy for Digitisation and Digital Engagement Manager at The University of Edinburgh,Edinburgh,"£41,526 to £49,533"
 2020-07-13,Procurement Notice/Advertisement for UNESCO Multimedia Library,France,Not listed
@@ -282,37 +489,37 @@ Date,Title,Location,Salary
 2020-04-26,Vacancy for Archives Assistant (Graduate Trainee) at Parliamentary Archives,London,"£23,870"
 2020-04-15,Vacancy for Lecturer / Senior Lecturer in Information Studies at University of Glasgow,Glasgow,"£35,845 - £59,135 (Levels 7,8,9)"
 2020-04-06,Vacancy for Digital Preservation Manager at the University of Sheffield,"Sheffield, UK","£41,526 - £49,553 p/a"
-2020-04-03,"Vacancy for Assistant Professor, Library Chief Data Strategist at University of Rhode Island",Rhode Island,Not listed
 2020-04-03,Vacancy for Data Engineer in the Digital Archiving Department at The National Archives,"Kew, London","£46,000 per annum"
+2020-04-03,"Vacancy for Assistant Professor, Library Chief Data Strategist at University of Rhode Island",Rhode Island,Not listed
 2020-03-31,ARCHIVER launches its Pre-Commercial Procurement Tender,Not listed,Not listed
 2020-03-29,Vacancy for User Researcher at The National Archives,"Richmond upon Thames, London","£30,000 - £35,000"
 2020-03-18,Alexander Graham Traineeships (x2) at National Library of Scotland,Glasgow,"£18,224 pro-rata"
-2020-03-08,"Vacancy for Archivist, Digital Archives at the Canadian Centre for Architecture",Montreal,Not listed
 2020-03-08,Vacancy for Lecturer / Associate Professor in Digital Humanities at UCL,London,"£44,674 - £52,701 per annum (Grade 8) £57,279 - £62,823 per annum (Grade 9)"
+2020-03-08,"Vacancy for Archivist, Digital Archives at the Canadian Centre for Architecture",Montreal,Not listed
 2020-03-01,Vacancy for Delivery Manager at The National Archives,"Richmond upon Thames, London","£47,000"
 2020-02-24,Vacancy for National Open Research Coordinator at Digital Repository of Ireland,Dublin,"€68,310 to €81,830"
 2020-02-23,Vacancy for Repository & Digital Preservation Librarian at University of Birmingham,Birmingham,"£30,942 to £40,322"
 2020-02-17,Traineeships in the Information Governance Division at the European Central Bank,"Frankfurt, Germany","€1,070 per month plus accomodation allowance"
 2020-02-16,Vacancy for Senior Archivist (Digital Preservation) at the Parliamentary Archives,London,"£37,500 - £45,583"
 2020-01-31,Vacancy for Innovation Specialist at the Library of Congress,"Washington DC, USA","$86,335 to $112,240 p/a"
-2020-01-30,Vacancy for Data Scientist at Bibliothèque nationale du Luxembourg,Luxembourg,Not listed
 2020-01-30,Vacancy for Projects and Policy Officer at DANS,The Hague,"€4,274 per month gross"
-2020-01-26,Vacancy for Head of Sound and Vision at the British Library,London,"£48,750 p/a"
+2020-01-30,Vacancy for Data Scientist at Bibliothèque nationale du Luxembourg,Luxembourg,Not listed
 2020-01-26,Vacancy for Research Data Manager at the University of Salford,Salford,"£33,199- £39,609 p/a"
+2020-01-26,Vacancy for Head of Sound and Vision at the British Library,London,"£48,750 p/a"
 2020-01-16,Vacancy for Digital Preservation Specialist at the US National Archives and Records Administration,"College Park, MD USA","$83,398 - $108,422 p/a"
 2020-01-08,Vacancy for Archives Associate (P1) (Digital Archivist) at the International Atomic Energy Agency,"Vienna, Austria","From US $37,012 p/a"
 2020-01-05,Vacancy for Senior Records Manager (maternity cover) at University of Westminster,London,"£33,372 p/a (incl. LWA) pro rata"
 2019-12-09,Vacancy / Secondment at the DPC: Training Officer,Glasgow,either Grade 6 (points 25 to 29 £29176-£32817) or Grade 7 (points 32 to 36 £35845 - £40322)
 2019-12-03,Vacancy for Software Developer at The UK National Archives,"Kew, London","£35,000 - £45,000 p/a inc. Market Supplement"
+2019-12-01,Vacancy for User Researcher at The UK National Archives,"Kew, London","£30,000"
+2019-12-01,Vacancy for Designer/Developer (Digital Services) at The UK National Archives,"Kew, London","£35,000 p/a + benefits"
 2019-12-01,Vacancy for Data Analyst at The UK National Archives,"Kew, London","£40,000 + excellent benefits"
 2019-12-01,Two vacancies for User Interface Designer/Developer (Digital Archiving) at The UK National Archives,"Kew, London","£35,000 p/a"
-2019-12-01,Vacancy for Designer/Developer (Digital Services) at The UK National Archives,"Kew, London","£35,000 p/a + benefits"
 2019-12-01,Contract opportunity for PRONOM Developer with The UK National Archives,"Kew, London",Up to £1000 per day
-2019-12-01,Vacancy for User Researcher at The UK National Archives,"Kew, London","£30,000"
 2019-11-30,Vacancy for Systems Engineer at The UK National Archives,"Kew, London","£30,000 - £35,000 p/a"
 2019-11-26,Vacancy for Archivist - Audiovisual and Radio Collections at the BBC,London,Not listed
-2019-11-22,Job Vacancy at Digital Repository of Ireland (DRI): Programme Manager (9 month contract),"Dublin, Ireland","€35,976 - €47,181 p/a"
 2019-11-22,Vacancy for Senior Support Engineer at The UK National Archives,"Kew, London","£35,000 - £39,995 p/a"
+2019-11-22,Job Vacancy at Digital Repository of Ireland (DRI): Programme Manager (9 month contract),"Dublin, Ireland","€35,976 - €47,181 p/a"
 2019-11-14,Vacancy for Digital Archivist at the University of Edinburgh,Edinburgh,"£33,797 - £40,322 p/a"
 2019-11-10,Vacancy for Digital Collections Manager at King's College London,London,"£38,304 - £45,026 p/a inc £3,500 p/a London Allowance (Grade 6)"
 2019-11-01,Graduate Intern Program at The Getty,Los Angeles / Malibu,"$30,000 p/a"
@@ -342,19 +549,19 @@ Date,Title,Location,Salary
 2019-07-10,Vacancy for Senior Developer - Open Data Systems at the Science and Technology Facilities Council,"Didcot, Oxfordshire","£38,318 - £42,576 p/a"
 2019-07-10,"Vacancy for Digital Preservation Analyst at Beeld en Geluid, Netherlands","Hilversum, NL","€ 3,156.13 - € 4,508.79"
 2019-07-09,"Vacancy for Systems Engineer at The National Archives, UK","Kew, London","£30,000 - £35,000"
-2019-07-07,Vacancy for Assistant Data Services Specialist at the British Library,London,"£26,000 p/a (£15,600 pro rata)"
 2019-07-07,Vacancy for Digital Asset Manager at Historic England,"Swindon, UK","£33,000 - £36,000 p/a + benefits"
+2019-07-07,Vacancy for Assistant Data Services Specialist at the British Library,London,"£26,000 p/a (£15,600 pro rata)"
 2019-06-26,Vacancy for Digital Preservation Manager at the University of Cambridge,Cambridge,"£36,261 - £48,677 p/a"
-2019-06-25,"Traineeship vacancies with the Information Governance Division of the Directorate General Secretariat, European Central Bank",Frankfurt,Not listed
 2019-06-25,Two vacancies for Assistant Archivist at University of the Arts London,London,"£28,839 - £35,205 p/a"
+2019-06-25,"Traineeship vacancies with the Information Governance Division of the Directorate General Secretariat, European Central Bank",Frankfurt,Not listed
 2019-06-20,"Vacancy for Web Archive Technical Specialist at The National Archives, UK","Kew, London","£40,000 + excellent benefits"
 2019-06-19,Vacancy for Team Leader (Digitization Project) with UNOPS,Geneva,Not listed
 2019-06-13,Vacancy for Education and Outreach Manager with the Digital Repository of Ireland,Dublin,"€35,358 - €46,370 p/a"
 2019-06-12,Vacancy for Senior Statistician with UNHCR-World Bank Joint Data Centre,Copenhagen,"from $90,970 p/a"
 2019-06-12,Vacancy for Senior Economist with UNHCR-World Bank Joint Data Centre,Copenhagen,"from $90,970 p/a"
 2019-06-12,Vacancy for Senior Data Scientist with UNHCR-World Bank Joint Data Centre,Copenhagen,"from $90,970 p/a"
-2019-06-12,Vacancy for Deputy Head of Joint Data Centre with UNHCR-World Bank Joint Data Centre,Copenhagen,"from $110,869 p/a"
 2019-06-12,Vacancy for Digital Library Software Developer at the University of Edinburgh,Edinburgh,"£33,199 - £39,609 p/a"
+2019-06-12,Vacancy for Deputy Head of Joint Data Centre with UNHCR-World Bank Joint Data Centre,Copenhagen,"from $110,869 p/a"
 2019-06-10,Vacancy for Digital Archives Assistant (Trainee) at the Parliamentary Archives,London,"£23,175 p/a"
 2019-06-09,Vacancy for Audiovisual Digitisation Officer at the University of Bristol,Bristol,"£26,243 p/a (plus annual increment)"
 2019-06-05,Vacancy - Bridging the Digital Gap: technical traineeships in archives (London and Yorkshire),London and Yorkshire,"London £16,973 (includes London weighting)/Yorkshire £14,500"
@@ -392,24 +599,24 @@ Date,Title,Location,Salary
 2019-01-02,Vacancy for Head of Library Research Services at the University of Bath,"Bath, UK","£50,132 - £58,089 p/a"
 2018-12-16,Vacancy for Digital Workflow Specialist at the Wellcome Trust,London,"c. £36,000"
 2018-12-14,Vacancy for Senior Developer in Digital Archiving at The National Archives,"Kew, London","£55,000 (including market supplement) plus excellent benefits"
-2018-11-30,Vacancy for Project Curator: Endangered Material Knowledge Programme at the British Museum,London,"£29,028 per annum"
 2018-11-30,Vacancy for User Interface Designer/Developer at The National Archives,"Kew, London","£30,000 - £34,660 p/a + benefits"
+2018-11-30,Vacancy for Project Curator: Endangered Material Knowledge Programme at the British Museum,London,"£29,028 per annum"
 2018-11-30,Vacancy for Digital Preservation Specialist/Researcher at The National Archives,Kew,"£40,000 + excellent benefits"
 2018-11-15,Vacancy for Digital Preservation Officer at the University of Nottingham,"Nottingham, UK","£30,395 - £39,609"
 2018-11-14,Vacancy for Archivist (Digital Archive) at Historic Environment Scotland,Edinburgh,"£24,102 - £30,189"
 2018-11-09,Vacancy for Local Authority Digital Records Liaison Officer at The Scottish Government,Edinburgh,"£24,580 - £27,515"
 2018-11-07,Vacancy for Preservation Audio Engineer at the British Library,London,"£26,000 per annum"
 2018-11-07,National Security Copy: Opportunity for the provision of Research and development services and related consultancy services,Not listed,£15k - £16k
-2018-11-02,Vacancy for Digital Scholarship Librarian at the National Library of Scotland,Edinburgh,"£31,111 p/a"
 2018-11-02,Vacancy for Software Developer at the National Library of Ireland,Dublin,Not listed
+2018-11-02,Vacancy for Digital Scholarship Librarian at the National Library of Scotland,Edinburgh,"£31,111 p/a"
 2018-10-26,Vacancy for Digital Preservation Assistant at the National Library of Scotland,Edinburgh,"£22,929 p/a"
 2018-10-22,Vacancy for Senior Systems Engineer at The National Archives,"Kew, London","£40,000 plus market supplement + benefits"
 2018-10-19,Invitation to Tender for Comprehensive External Audit Services,Not listed,Not listed
 2018-10-16,"Vacancy for Group Manager - Digital Information Management, at the Information Commissioner's Office","Wilmslow, UK","45,697 p/a plus pension and benefits"
 2018-10-16,Vacancy for Digital records Analyst at National Records of Scotland,Edinburgh,£28891 - £33094
 2018-10-14,"Vacancy for Senior Conservation Technician, Time-based Media at Tate","London, UK","£25,269 p/a"
-2018-10-14,"UNOG issues Expression of Interest for Archives Management System, Digital Preservation System and User Access Interface",Geneva,Not listed
 2018-10-14,"Vacancy for Deputy Director, Archaeology Data Service","York, UK","£39,609 - £48,676"
+2018-10-14,"UNOG issues Expression of Interest for Archives Management System, Digital Preservation System and User Access Interface",Geneva,Not listed
 2018-10-07,Vacancy for a Web Archive Technical Specialist at The National Archives UK,"Kew, Richmond, Surrey","£38,000 - £40,000"
 2018-09-28,Vacancy for Digital Services Assistant at Chester Beatty Library,Dublin,"€23,107 p/a"
 2018-09-12,"EXTENSION TO DEADLINE: Temporary Job Opening for Information Management Officer (Digital Preservation Officer) at the United Nations, New York",New York,Competitive
@@ -431,8 +638,8 @@ Date,Title,Location,Salary
 2018-06-28,"Vacancy for Unit Head (Records Unit) at International Atomic Energy Agency, Vienna","Vienna, Austria","$59,151"
 2018-06-25,Vacancy for Research Data Librarian at LSE Library,"London, UK","£34,736 to £42,019"
 2018-06-21,Traineeship in Archives and Records Management at European Central Bank,"Frankfurt, Germany","€1,050 / month + accommodation"
-2018-06-20,"Deadline for applications extended: Vacancy for Digital Archivist at Bacardi, based in Glasgow",Glasgow,"£29,000- £32,000 pro rata"
 2018-06-20,Vacancy for Digital Archivist at Historic Environment Scotland,Edinburgh and the Lothians,"£23,400 - £29,310"
+2018-06-20,"Deadline for applications extended: Vacancy for Digital Archivist at Bacardi, based in Glasgow",Glasgow,"£29,000- £32,000 pro rata"
 2018-06-15,Vacancy for Assistant Director: Digital Innovation and Research Services at Lancaster University,"Lancaster, UK","£50,618 to £56,950"
 2018-06-10,Vacancy for Digital Archives Assistant - Graduate Trainee at Parliamentary Archives,London,"£22,500"
 2018-06-08,University Research Resource Scholarship: Web-archiving needs of archives in South Yorkshire,Sheffield,Not listed
@@ -449,17 +656,17 @@ Date,Title,Location,Salary
 2018-04-08,REMINDER: Vacancy for Preservation Repository Manager at the British Library,"Boston Spa, Yorkshire, UK","£35,750 per annum"
 2018-04-05,Vacancies for Archivists Grade III at the National Archives of Ireland,"Dublin, Ireland",Not listed
 2018-03-29,"Vacancy for Manager, Cultural Collections (University Archivist) at the University of Melbourne","Melbourne, Australia","$144,048 p.a. plus 17% superannuation"
+2018-03-27,Vacancy for Lecturer or Senior Lecturer in Social and Cultural Artificial Intelligence at Kings College London,London,"£33,518 - £58,655 per annum"
 2018-03-27,Vacancy for Lecturer or Senior Lecturer in Digital Society at Kings College London,London,"£33,518 - £58,655 per annum"
 2018-03-27,Vacancy for Lecturer or Senior Lecturer in Digital Media Innovations at Kings College London,London,"£33,518 - £58,655 per annum"
-2018-03-27,Vacancy for Lecturer or Senior Lecturer in Social and Cultural Artificial Intelligence at Kings College London,London,"£33,518 - £58,655 per annum"
-2018-03-25,Vacancy for Digital Preservation Software Analyst at the British Library,"London or Boston Spa, UK","£32,000 - £36,800 (St Pancras) £29,000 - £34,000 (Boston Spa) per annum"
 2018-03-25,Vacancy for IPS Technical Analyst at the British Library,"London or Boston Spa, UK","£29,000 or £32,000 per annum"
+2018-03-25,Vacancy for Digital Preservation Software Analyst at the British Library,"London or Boston Spa, UK","£32,000 - £36,800 (St Pancras) £29,000 - £34,000 (Boston Spa) per annum"
 2018-03-21,DPN seeks Director of Member Services,Not listed,Not listed
 2018-03-18,Digital Archivist required for Stobs Camp Project,"Musselburgh, Scotland","£24,000 p.a. pro rata"
 2018-03-07,Vacancy for Project Manager - Transforming Archives: Bridging the Digital Gap at The National Archives,"Kew, UK","£32,175 - £36,000 pro rata"
+2018-03-05,Vacancy for Information Management Officer (Digital preservation archivist) at UN New York,"New York, USA",Not listed
 2018-03-05,"Vacancy for Digital Preservation Officer at Modern Records Centre, University of Warwick","Warwick, UK","£29,799-£38,833 per annum"
 2018-03-05,Vacancy for Collections Development Web Developer at the University of York,"York, UK","£31,604 a year"
-2018-03-05,Vacancy for Information Management Officer (Digital preservation archivist) at UN New York,"New York, USA",Not listed
 2018-02-28,Invitation to tender for the provision of Web Preservation Services,Luxembourg,Not listed
 2018-02-26,"Vacancy at the Parliamentary Archives, London: Senior Archivist","London, UK","£36,500 per annum"
 2018-02-26,ITT for provision of Digital Learning Set to The National Archives,"Kew, UK",Not listed
@@ -474,8 +681,8 @@ Date,Title,Location,Salary
 2018-01-21,"Vacancy at the Parliamentary Archives, London: Digital Archivist","London, UK","£30,150 per annum"
 2018-01-12,LKAS interdisciplinary PhD scholarships available for 2018/19,Glasgow,Not listed
 2018-01-08,Vacancy for Library Software Developer at the University of Edinburgh,"Edinburgh, Scotland","£27,285 to £31,604 per annum"
-2018-01-07,"HSBC Archives, London: Digital Archivist vacancy (12 months maternity cover)",London,Not listed
 2018-01-07,Vacancy for Applications Developer (OASIS) at the Archaeology Data Service,"York, UK","£31,604-£38,832 per year"
+2018-01-07,"HSBC Archives, London: Digital Archivist vacancy (12 months maternity cover)",London,Not listed
 2017-12-31,Vacancy for Unit Head (Records Unit)(P3) at the International Atomic Energy Agency,"Vienna, Austria",From US $58583
 2017-12-17,Vacancy for Head of Endangered Material Knowledge Programme (EMKP) at the British Museum,"London, UK","£45,174 per annum"
 2017-12-11,Vacancy for Deputy Data Librarian at the University of Edinburgh,Edinburgh,"£39,992 to £47,722 per annum"
@@ -483,34 +690,34 @@ Date,Title,Location,Salary
 2017-12-01,Vacancy for Digital Scholarship Archivist at Massachusetts Institute of Technology (MIT),"Cambridge, MA, USA",Not listed
 2017-11-30,Vacancy for Digital Archivist at The Digital Repository of Ireland,"Dublin, Ireland","€43,300 - €57,599"
 2017-11-28,Vacancy for Research Information Administrator - Digital Preservation at the University of Glasgow,"Glasgow, Scotland.","£21,585 - £25,728"
-2017-11-27,"Vacancy at the Parliamentary Archives, London: Head of Preservation & Access","London, UK","£49,500 per annum"
 2017-11-27,Vacancy for Repository Manager at LSE Library,"London, UK","£34,736 to £42,019 pa"
+2017-11-27,"Vacancy at the Parliamentary Archives, London: Head of Preservation & Access","London, UK","£49,500 per annum"
 2017-11-24,"Vacancy for Digital Preservation Analyst, Archives New Zealand","Wellington, New Zealand","$85,163 - $115,220"
 2017-11-22,Vacancy for Records and Archives Project Officer at the Medical Research Council,"Swindon, UK","£21,951"
 2017-11-20,Vacancy for Archivist and Records Manager at Unilever,"Port Sunlight, UK","£30,500 - £38,100 depending on experience, plus benefits"
-2017-11-12,Vacancy for Digital Preservation Software Tester at the British Library,Boston Spa (Yorkshire) or St Pancras (London),"£29,000 (Boston Spa) or £32,000 (St Pancras)"
-2017-11-12,Vacancy for IPS Technical Analyst at the British Library,"Boston Spa or St. Pancras, London - UK","£29,000 or £32,000 per annum"
 2017-11-12,Vacancy for Research Data Librarian at the University of Bath,"Bath, UK","Starting from £32,548, rising to £38,833"
+2017-11-12,Vacancy for IPS Technical Analyst at the British Library,"Boston Spa or St. Pancras, London - UK","£29,000 or £32,000 per annum"
+2017-11-12,Vacancy for Digital Preservation Software Tester at the British Library,Boston Spa (Yorkshire) or St Pancras (London),"£29,000 (Boston Spa) or £32,000 (St Pancras)"
 2017-10-31,Vacancy for Research Data Manager at Lancaster University,"Lancaster, UK.","£33,518 to £38,832"
 2017-10-27,Vacancy for Archivist with Lloyds Banking Group,"London, UK","£37,422 - £43,658"
 2017-10-25,Vacancy for Preservation Repository Manager at the British Library,"Boston Spa, UK","£35,750 per annum"
-2017-10-24,Vacancy for Cataloguer (Pack & Track Project) (2 posts) at the Parliamentary Archives,"London, UK","£22,150 per annum"
-2017-10-24,Vacancy for Collection Care Assistant (Pack & Track Project) – 2 full-time equivalent posts - at the Parliamentary Archives,"London, UK","£22,150 per annum"
 2017-10-24,Vacancy for Project Manager (Pack & Track Project) at the Parliamentary Archives,"London, UK","£49,500 per annum"
+2017-10-24,Vacancy for Collection Care Assistant (Pack & Track Project) – 2 full-time equivalent posts - at the Parliamentary Archives,"London, UK","£22,150 per annum"
+2017-10-24,Vacancy for Cataloguer (Pack & Track Project) (2 posts) at the Parliamentary Archives,"London, UK","£22,150 per annum"
 2017-10-23,Vacancy for Curation & Discovery Manager at the University of Kent,"Canterbury, UK.","£39,992 - £47,722"
 2017-10-20,Vacancy for Research Services Assistant at Lancaster University,"Lancaster, UK","£21,585 to £24,983 pro rata"
 2017-10-18,Vacancy for Senior Software Developer (Fixed Term) at the University of Cambridge,"Cambridge, UK","£35,550 - £47,722"
 2017-10-17,Vacancy for Digital Archives & Collections Implementation Manager at University of the Arts London,"London, UK","£37,265 - £44,708"
-2017-10-16,Vacancy for Archives Manager - Global Communications at HSBC,Asia Pacific-Hong Kong-Kowloon-Tai Kok Tsui,Not listed
 2017-10-16,Vacancy for Digital Content Manager at Wellcome Collection,Digital Content Manager,"£50,000 plus benefits"
+2017-10-16,Vacancy for Archives Manager - Global Communications at HSBC,Asia Pacific-Hong Kong-Kowloon-Tai Kok Tsui,Not listed
 2017-10-16,"Vacancy for a Project Support Officer at BL Labs, British Library","St. Pancras, London","£26,000 per annum pro rata"
 2017-10-05,Vacancy for Associate Digital Archivist at UN MICT,"The Hague, Netherlands",Not listed
 2017-10-03,Vacancy for Web Archiving Assistant at The National Archives,"Kew, London, UK","£21,595 a year"
-2017-10-01,Two vacancies for Preservation Audio Engineer at the British Library,"London, UK","£26,000 a year"
 2017-10-01,Vacancy for Preservation Audio Engineer (Part time 0.40 FTE) at the British Library,"London, UK","£26,000 a year"
+2017-10-01,Two vacancies for Preservation Audio Engineer at the British Library,"London, UK","£26,000 a year"
 2017-09-24,Vacancy for Research Information Officer (Training and Support) at The University of Glasgow,Glasgow,"£34,520 - £38,833 per annum"
-2017-09-01,"Two vacancies for Digital Project Manager at the Bodleian Libraries, University of Oxford","Oxford, UK","£39,324 – £46,924 p.a."
 2017-09-01,Vacancy for Librarian (Senior Digital Collections Specialist) with the Library of Congress,Washington D.C.,"$94,796 - $123,234"
+2017-09-01,"Two vacancies for Digital Project Manager at the Bodleian Libraries, University of Oxford","Oxford, UK","£39,324 – £46,924 p.a."
 2017-08-31,Vacancy for a Senior Digital Archivist at The National Library of New Zealand,Wellington,"$70,661 - $95,600"
 2017-08-29,Vacancy for Director at Scottish Council on Archives,"Edinburgh, UK","Salary: £45,000 - £50,000 (dependent on experience)"
 2017-08-28,Vacancy for Technology Strategy Leader at University of York,"York, UK","£38,183 - £46,924 a year"
@@ -535,31 +742,31 @@ Date,Title,Location,Salary
 2017-07-14,Vacancy for Archives Manager in Global Communications with HSBC Hong Kong,Hong Kong,Not listed
 2017-07-06,Vacancy for Research Data Librarian (Systems) at the University of Bath,Not listed,"Starting from £32,004, rising to £38,183"
 2017-07-05,Vacancies for Senior Software Developer at Cambridge University Library,Cambridge,"£34,956-£46,924"
-2017-06-07,Job Opening: Executive Director of the Open Preservation Foundation,Negotiable,"£45,000+ a year pro rata, depending on skills and experience"
 2017-06-07,"Traineeships available with the Information Management Services Division, European Central Bank","Frankfurt, Germany",Not listed
+2017-06-07,Job Opening: Executive Director of the Open Preservation Foundation,Negotiable,"£45,000+ a year pro rata, depending on skills and experience"
 2017-05-31,Vacancy for Security and Information Risk Advisor with National Records of Scotland (ref IRC42012),Edinburgh,"£34,919 - £42,220 ICT Pay Supplement* £4,000 per annum pro rata"
 2017-05-31,Vacancy for Director of ICT with National Records of Scotland (ref IRC45693),Edinburgh,"£67,090 - £69,380 ICT Pay Supplement* £4,000 per annum pro rata"
 2017-05-16,Vacancy for City of Culture Digital Archive Software Developer at University of Hull,Hull,"£32,959 - £38,183 a year"
 2017-05-05,"Job opportunity: Digital Preservation Manager, National Library of New Zealand","Wellington, New Zealand","$99,303 - $134,350"
 2017-05-03,Digital Archivist post for Hull City of Culture,Hull,"£32,959 to £38,183 pa"
 2017-04-26,Digitisation Support Officer post with Wellcome,London,"Circa £29,000"
-2017-04-07,Vacancy for Digital Preservation Sales Executive UK/EMEA with Preservica,"Abingdon, Oxfordshire",Competitive
 2017-04-07,Vacancy for Systems Integration Engineer at Preservica,"Abingdon, Oxfordshire",Competitive
+2017-04-07,Vacancy for Digital Preservation Sales Executive UK/EMEA with Preservica,"Abingdon, Oxfordshire",Competitive
 2017-04-03,"Traineeships in the Information Management Services Division, European Central Bank",Not listed,Not listed
-2017-03-31,The Department of Internal Affairs in New Zealand are looking for 2 Digital Preservation Process Administrators,"Wellington, New Zealand","$NZD 65,124 - $NZD 88,109"
 2017-03-31,Vacancy for Library Digital Scholarship Developer at the University of Edinburgh,Edinburgh,"£26,829 to £31,076 per annum"
 2017-03-31,Vacancy for Freelance Digitisation Assistant with Unilever Archives and Records Management,Port Sunlight (between Liverpool and Chester).,"Freelance fee: £2,700: half upfront, half upon completion"
+2017-03-31,The Department of Internal Affairs in New Zealand are looking for 2 Digital Preservation Process Administrators,"Wellington, New Zealand","$NZD 65,124 - $NZD 88,109"
 2017-03-29,"New Academic Posts at Department of Digital Humanities, Kings College London",London,Not listed
-2017-03-22,Vacancy for Senior Developer at The National Archives,Kew,"£46,860 plus market supplement"
 2017-03-22,Vacancy for Senior Developer (DROID) at The National Archives,Kew,"£46,860 plus market supplement"
+2017-03-22,Vacancy for Senior Developer at The National Archives,Kew,"£46,860 plus market supplement"
 2017-03-15,Software Developer Higher Apprenticeship at The National Archives,"Kew, Surrey","Starting salary £18,462"
 2017-03-13,Digital Preservation Manager (maternity cover) vacancy at University of Sheffield Library,University of Sheffield,"£ 30,175 to £38,183 per annum (pro rata)"
 2017-03-08,Head of IT vacancy with Historic Environment Scotland,Edinburgh and the Lothians,£45696 - £53396
 2017-03-08,Chief Technology Officer vacancy with Historic Environment Scotland,Edinburgh and the Lothians,£45696 - £53396
 2017-02-27,Vacancy for Digital Imager & Photographer with RIBA,London & V&A Museum,"£24,164 - £29,060 per annum"
 2017-02-22,The National Archives of Ireland Request for Tender: Digital Preparation and Image Generation and Management,Not listed,Not listed
-2017-02-19,"Head of Digital Archiving, vacancy at The National Archives","Kew, Richmond, London, TW9 4DU","£65,000 plus market supplement"
 2017-02-19,"Head of Digital Services, vacancy at The National Archives","Kew, Richmond, London, TW9 4DU","£65,000 plus market supplement"
+2017-02-19,"Head of Digital Archiving, vacancy at The National Archives","Kew, Richmond, London, TW9 4DU","£65,000 plus market supplement"
 2017-02-13,UK Data Archive vacancy for Temporary Metadata Assistant,Colchester,"£18,412 per annum, pro rata"
 2017-02-07,British Library vacancy for Information Analyst in the Digital Preservation Team,Boston Spa,"£23,250 to £27,000 per annum"
 2017-02-06,Digital Repository of Ireland vacancy for Programme Manager,Dublin 2,"€33,661- €44,456 per annum"
@@ -573,61 +780,84 @@ Date,Title,Location,Salary
 2016-10-16,Vacancy for Information and Records Manager with Sellafield Ltd,Sellafield,"£56,579"
 2016-10-16,Vacancy for Information and Records Assurance Advisor with Sellafield Ltd,Sellafield,"£41,021"
 2016-10-06,Digital Preservation Manager Vacancy with Tate,"Millbank, London","£33,010 per annum (inc. £2,500 p/a Market Rate Allowance)"
-Not listed,Vacancy for Research Impact Librarian at The American University in Cairo,"Cairo, Egypt",Not listed
-Not listed,Vacancy for Learning Commons and FYE Librarian at The American University in Cairo,"Cairo, Egypt",Not listed
-Not listed,Vacancy for Digital Preservation Technical Lead at University of Sheffield,Sheffield,"£37,099 - £45,585"
-Not listed,Opportunity for Digital Archives Consultant at UN ARMS,New York City,Not listed
-Not listed,Request for Proposals for Digital Asset/Knowledge Management System,Not listed,Not listed
-Not listed,Vacancy for Digital Preservation Training Officer at the University of Southampton,Southampton,"£34,980 - £39,347 p/a"
-Not listed,Vacancy for Helis Foundation Digital Collections Manager at New Orleans Jazz & Heritage Foundation,"New Orleans, Louisiana",$55k- 69k
+Not listed,"Vacancy for Vice President, B2B Marketing SaaS, North America at Preservica","Boston/Remote, US",Not listed
+Not listed,Vacancy for Technical Success Manager at Preservica,"Boston, MA",Competitive
+Not listed,Vacancy for Support Engineer 2nd Line at Preservica,"Boston, US",Not listed
+Not listed,Vacancy for Software Preservation Program Manager at Yale University,United States,Not listed
+Not listed,Vacancy for Snr Site Reliability Engineer SRE at Preservica,"Abingdon/Remote, UK",Not listed
 Not listed,Vacancy for Senior Product Manager at Preservica,"Abingdon, UK or Remote, UK",Not listed
+"Not listed","Vacancy for Senior GoLang Software Engineer at APTrust","Charlottesville, Virginia, USA (Eligible for fully remote, but must be based in the United States.)","$110,000-$130,000 USD"
+Not listed,Vacancy for Senior Assistant Archivist (Digital) at the University of Glasgow,Not listed,Not listed
+Not listed,Vacancy for Research Impact Librarian at The American University in Cairo,"Cairo, Egypt",Not listed
+"Not listed","Vacancy for Research Impact Librarian at The American University in Cairo","Cairo, Egypt","Not listed"
+Not listed,Vacancy for Research Data Specialist with the Digital Repository of Ireland,Dublin,Not listed
+Not listed,Vacancy for QA Automation Engineer at Preservica,"Abingdon/Remote, UK",Not listed
+Not listed,Vacancy for Preservation Digital Imaging Librarian at Yale University,"Connecticut, United States","$70,000-$90,000"
+Not listed,"Vacancy for Pre-Sales Lead /Solutions Architect, Channels & Alliances at Preservica","Abingdon, UK",Competitive
+Not listed,Vacancy for LOCKSS Software Engineer,"Stanford, CA",Not listed
+Not listed,Vacancy for Learning Commons and FYE Librarian at The American University in Cairo,"Cairo, Egypt",Not listed
+"Not listed","Vacancy for Learning Commons and FYE Librarian at The American University in Cairo","Cairo, Egypt","Not listed"
+Not listed,Vacancy for Java Software Engineer with Preservica,"Oxford, UK",Competitive
+Not listed,Vacancy for Java Software Engineer at Preservica,"Abingdon/Remote, UK",Not listed
+Not listed,Vacancy for IT Customer Support Team Leader with Preservica,"Oxfordshire, UK",Competitve
+Not listed,Vacancy for Innovation Software Engineer with Preservica,"Oxfordshire, UK",Not listed
+Not listed,Vacancy for Innovation Software Engineer with Preservica,"Oxfordshire, UK",Competitive
+Not listed,Vacancy for Innovation Software Engineer at Preservica,Abingdon/ Remote UK,Not listed
+"Not listed","Vacancy for Information Services Consultant 3 - Digital Collections and Preservation at Yale University","Connecticut, USA","$101,300.00 - $151,925.00"
+Not listed,Vacancy for Helis Foundation Digital Collections Manager at New Orleans Jazz & Heritage Foundation,"New Orleans, Louisiana",$55k- 69k
+"Not listed","Vacancy for Head of Preservation, Conservation, and Digitization at Penn State University","Pennsylvania, USA","Not listed"
+Not listed,Vacancy for Head of Digital Research at The National Archives,"Kew, Richmond, Surrey","£41,970"
+Not listed,Vacancy for Engineering Lead .Net MS365 at Preservica,Abingdon/Remote,Not listed
+Not listed,"Vacancy for Director, Preservation at Columbia University",New York,Not listed
+Not listed,Vacancy for Director of Solutions Architecture at Preservica,"Boston/Remote, US",Not listed
+Not listed,"Vacancy for Director, Digital Content & Engagement at the Qatar National Library","Qatar, Doha",Not listed
+"Not listed","Vacancy for Digital Repository Manager at University of Chicago Library","Chicago, United States","$85,00.00 - $95,000.00"
+Not listed,Vacancy for Digital Preservation Training Officer at the University of Southampton,Southampton,"£34,980 - £39,347 p/a"
+"Not listed","Vacancy for Digital Preservation Training Officer at the University of Southampton","Southampton","£34,980 - £39,347 p/a"
+Not listed,Vacancy for Digital Preservation Technical Lead at University of Sheffield,Sheffield,"£37,099 - £45,585"
+"Not listed","Vacancy for Digital Preservation Technical Lead at University of Sheffield","Sheffield","£37,099 - £45,585"
+"Not listed","Vacancy for Digital Preservation Manager at V&A","Cromwell Road, London","£46,947 - £62,596"
+Not listed,Vacancy for Digital Preservation Manager at Unilever,Liverpool,Not listed
+Not listed,Vacancy for Digital Preservation Librarian at Yale University,United States,Not listed
+"Not listed","Vacancy for Digital Preservation Librarian at Tulane University","New Orleans, Louisiana, USA","$65,000 - $70,000"
+"Not listed","Vacancy for Digital Preservation Librarian at Penn State University Libraries","Penn State University Park","Not listed"
+Not listed,Vacancy for Digital Preservation Assistant (Graduate Trainee) at Parliamentary Archives,Parliamentary Archives,"£22,150 - £25,087"
 Not listed,Vacancy for Digital Curation Librarian at Qatar National Library,Qatar,Not listed
 Not listed,Vacancy for Digital Coordination Assistant at Iron Mountain,"Feltham, UK",Not listed
+Not listed,"Vacancy for Digital Content Platforms Manager, Qatar National Library","Doha, Qatar",Not listed
 Not listed,Vacancy for Digital Archivist at a London Based Art Gallery,London,£30k full time OR £15k part time.
-Not listed,Vacancy for Application Specialist - Ingest & Preservation at The British Library,"Boston Spa or St Pancras, UK","£29,000 - £36,833 Boston Spa / £32,000 - £39,717 St Pancras"
-Not listed,Vacancy for Assistant University Archivist for Records Management at The American University in Cairo,"Cairo, Egypt",Not listed
-Not listed,Vacancy for Engineering Lead .Net MS365 at Preservica,Abingdon/Remote,Not listed
-Not listed,Vacancy for Digital Preservation Librarian at Yale University,United States,Not listed
-Not listed,Vacancy for Software Preservation Program Manager at Yale University,United States,Not listed
-Not listed,Vacancy for Archivist at American Institute of Physics,"Maryland, Virginia, or Washington, DC",Not listed
-Not listed,Vacancy for a Curator of Born-Digital Special Collections at Vanderbilt University,"Nashville, Tennessee",Not listed
-Not listed,Vacancy for Preservation Digital Imaging Librarian at Yale University,"Connecticut, United States","$70,000-$90,000"
-Not listed,Multiple Vacancies in Department of Digital Humanities at King's College London,Not listed,Not listed
-Not listed,Opportunity for Specialist Consultancy Services at University of Oxford,Not listed,Not listed
-Not listed,Vacancy for Digital Preservation Manager at Unilever,Liverpool,Not listed
-Not listed,Vacancy for Associate IT Project Manager at Getty,California,$37.99 - $49.39 Hourly
 Not listed,Vacancy for DevOps Engineer with APTrust,"Charlottesville, VA","$78,000 - $90,000"
-Not listed,"Vacancy for Director, Digital Content & Engagement at the Qatar National Library","Qatar, Doha",Not listed
+"Not listed","Vacancy for Data Curation Network Director at University of Minnesota","Minnesota, US","$90,000 - $93,000"
+Not listed,Vacancy for Customer Training Consultant at Preservica,"Abingdon, UK / Boston, MA",Competitive
 Not listed,"Vacancy for Consultant, Information Technology at Small Data Industries","Brooklyn, New York",Not listed
 Not listed,Vacancy for Collections Systems Manager at IWM Duxford,"Duxford, Cambridgshire","£30,000 p/a"
-Not listed,Sales Executive – Enterprise SW,"Boston, MA",Competitive
-Not listed,"Vacancy for Pre-Sales Lead /Solutions Architect, Channels & Alliances at Preservica","Abingdon, UK",Competitive
-Not listed,Vacancy for Technical Success Manager at Preservica,"Boston, MA",Competitive
-Not listed,Vacancy for Agile Business Analyst/Product Owner at Preservica,"Abingdon, UK",Competitive
-Not listed,Vacancy for Senior Assistant Archivist (Digital) at the University of Glasgow,Not listed,Not listed
+"Not listed","Vacancy for Business Systems Analyst, Digital Preservation at Getty","Hybrid, California","$95,935 - $127,116 Annually"
+"Not listed","Vacancy for Business Humanities and Social Sciences Librarian at American University in Cairo","Cairo, Egypt","Not listed"
+"Not listed","Vacancy for Born Digital Archivist at University of Pennsylvania","Philadelphia, Pennsylvania","$57,500.00 - $75,929.00 Annual Rate"
 Not listed,Vacancy for back-end developer (Paris-based) with Software Heritage,"Paris, France",Not listed
-Not listed,Vacancy for Innovation Software Engineer at Preservica,Abingdon/ Remote UK,Not listed
-Not listed,"Vacancy for Vice President, B2B Marketing SaaS, North America at Preservica","Boston/Remote, US",Not listed
-Not listed,Vacancy for Director of Solutions Architecture at Preservica,"Boston/Remote, US",Not listed
-Not listed,Vacancy for Support Engineer 2nd Line at Preservica,"Boston, US",Not listed
-Not listed,Vacancy for QA Automation Engineer at Preservica,"Abingdon/Remote, UK",Not listed
-Not listed,Vacancy for Snr Site Reliability Engineer SRE at Preservica,"Abingdon/Remote, UK",Not listed
-Not listed,Vacancy for Java Software Engineer at Preservica,"Abingdon/Remote, UK",Not listed
-Not listed,"Vacancy for Director, Preservation at Columbia University",New York,Not listed
-Not listed,"Subject Matter Expert, Digital Archiving/Preservation, Higher Education & Libraries at Preservica","Boston/Remote, US",Not listed
-Not listed,Vacancy for Customer Training Consultant at Preservica,"Abingdon, UK / Boston, MA",Competitive
-Not listed,Procurement of Research & Development Services for ARCHIVER Project,Not listed,Not listed
-Not listed,"Vacancy for Digital Content Platforms Manager, Qatar National Library","Doha, Qatar",Not listed
-Not listed,Vacancy for Head of Digital Research at The National Archives,"Kew, Richmond, Surrey","£41,970"
-Not listed,Vacancy for Agile Business Analyst/Product Owner with Preservica,"Oxford, UK",Competitive
-Not listed,Vacancy for Java Software Engineer with Preservica,"Oxford, UK",Competitive
-Not listed,Vacancy for Innovation Software Engineer with Preservica,"Oxfordshire, UK",Competitive
-Not listed,Vacancy for IT Customer Support Team Leader with Preservica,"Oxfordshire, UK",Competitve
-Not listed,Vacancy for Application Support Engineer at Preservica,"Oxford, UK","£35,000 - £45,000 a year"
+Not listed,Vacancy for Associate IT Project Manager at Getty,California,$37.99 - $49.39 Hourly
+Not listed,Vacancy for Assistant University Archivist for Records Management at The American University in Cairo,"Cairo, Egypt",Not listed
+Not listed,Vacancy for Archivist at American Institute of Physics,"Maryland, Virginia, or Washington, DC",Not listed
+"Not listed","Vacancy for Archivist at American Institute of Physics","Maryland, Virginia, or Washington, DC","Not listed"
+"Not listed","Vacancy for Archives and Preservation Officer at CSIRO","Melbourne, Australia","AU$73,567 - AU$93,630 plus up to 15.4% superannuation"
 Not listed,Vacancy for Application Support Engineer with Preservica,"Abingdon, Oxfordshire, UK",Not listed
-Not listed,Vacancy for Research Data Specialist with the Digital Repository of Ireland,Dublin,Not listed
-Not listed,Vacancy for Digital Preservation Assistant (Graduate Trainee) at Parliamentary Archives,Parliamentary Archives,"£22,150 - £25,087"
-Not listed,Opening Up Scotland’s Archives' - 7 Traineeships available in Scottish Archives,Not listed,Not listed
+Not listed,Vacancy for Application Support Engineer at Preservica,"Oxford, UK","£35,000 - £45,000 a year"
+Not listed,Vacancy for Application Specialist - Ingest & Preservation at The British Library,"Boston Spa or St Pancras, UK","£29,000 - £36,833 Boston Spa / £32,000 - £39,717 St Pancras"
+Not listed,Vacancy for Agile Business Analyst/Product Owner with Preservica,"Oxford, UK",Competitive
+Not listed,Vacancy for Agile Business Analyst/Product Owner at Preservica,"Abingdon, UK",Competitive
+Not listed,Vacancy for a Curator of Born-Digital Special Collections at Vanderbilt University,"Nashville, Tennessee",Not listed
+Not listed,"Subject Matter Expert, Digital Archiving/Preservation, Higher Education & Libraries at Preservica","Boston/Remote, US",Not listed
+Not listed,Sales Executive – Enterprise SW,"Boston, MA",Competitive
+"Not listed","Research Opportunity with Royal Museums Greenwich","Not listed","Not listed"
+Not listed,Request for Proposals for Digital Asset/Knowledge Management System,Not listed,Not listed
+"Not listed","Request for Information (RFI) for Web Harvesting Services - Library of Congress","Not listed","Not listed"
+"Not listed","Request for Information (RFI) for Trusted Digital Repository - National Museum of Australia","Not listed","Not listed"
+Not listed,Procurement of Research & Development Services for ARCHIVER Project,Not listed,Not listed
 Not listed,"POEM PhD Studentships in Information Studies, University of Glasgow",Not listed,Not listed
-Not listed,Vacancy for Innovation Software Engineer with Preservica,"Oxfordshire, UK",Not listed
-Not listed,Vacancy for LOCKSS Software Engineer,"Stanford, CA",Not listed
+Not listed,Opportunity for Specialist Consultancy Services at University of Oxford,Not listed,Not listed
+"Not listed","Opportunity for Specialist Consultancy Services at University of Oxford","Not listed","Not listed"
+Not listed,Opportunity for Digital Archives Consultant at UN ARMS,New York City,Not listed
+Not listed,Opening Up Scotland’s Archives' - 7 Traineeships available in Scottish Archives,Not listed,Not listed
+Not listed,Multiple Vacancies in Department of Digital Humanities at King's College London,Not listed,Not listed
+"Not listed","Multiple Vacancies in Department of Digital Humanities at King's College London","Not listed","Not listed"
+"Not listed","Call for Expressions of Interest - Sabbatical Cover for Teaching at University College of London","London, England","Not listed"
